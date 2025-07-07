@@ -1,0 +1,31 @@
+id_transaccion,fecha_hora,tipo_transaccion,metodo_pago,monto,saldo_acumulado,cajero_id,numero_ticket,cliente_id,producto_categoria,descripcion,responsable
+15,2025-01-19 08:08:43,Gasto,Tarjeta de Crédito,2954.82,118480.43,1,TK-31051834,8953.0,,Reparación de maquinaria,Bautista Garcia
+26,2025-01-19 18:04:43,Gasto,Tarjeta de Débito,14501.08,121471.65,4,TK-84251354,3584.0,,Reparación de maquinaria,Alejo Fernandez Flores
+9,2025-01-26 17:48:49,Venta,Efectivo,12974.45,90762.39,7,TK-27048281,5889.0,Accesorios,,Alejo Fernandez Flores
+14,2025-01-28 11:13:05,Venta,Transferencia,10176.14,121435.25,4,TK-15098393,1117.0,Accesorios,,Martina Gomez
+30,2025-02-04 20:58:05,Venta,Transferencia,4898.68,115686.43,8,TK-86801128,,Alimentos,,Bautista Garcia
+5,2025-02-13 21:22:04,Venta,Tarjeta de Crédito,4014.39,85112.17,10,TK-53767242,,Accesorios,,Amparo Paez Rodriguez
+16,2025-02-14 11:37:18,Gasto,Tarjeta de Débito,6067.95,112412.48,3,TK-99737631,2588.0,,Compra de suministros,Benjamin Perez Diaz
+6,2025-02-20 09:30:30,Gasto,Tarjeta de Crédito,12864.92,72247.25,9,TK-84969653,3266.0,,Transporte y logística,Sebastian Rojas Valdez
+18,2025-02-20 18:23:44,Venta,Transferencia,6386.74,121939.0,4,TK-87262473,2235.0,Juguetes,,Benjamin Perez Diaz
+28,2025-02-23 15:38:57,Gasto,Tarjeta de Débito,1294.48,106582.57,2,TK-82449353,5325.0,,Pago de servicios,Amparo Paez Rodriguez
+25,2025-02-23 20:40:50,Venta,Transferencia,2797.48,135972.73,3,TK-47510799,2638.0,Alimentos,,Dr(a). Delfina Nuñez
+8,2025-03-17 00:50:14,Gasto,Efectivo,9082.93,77787.94,8,TK-84801845,,,Gastos de representación,Dr(a). Delfina Nuñez
+21,2025-03-24 14:08:14,Venta,Efectivo,8107.54,133503.78,9,TK-72343098,1998.0,Ropa,,Sebastian Rojas Valdez
+27,2025-03-27 08:37:13,Gasto,Transferencia,13594.6,107877.05,9,TK-49808412,,,Gastos de representación,Amparo Paez Rodriguez
+19,2025-03-28 06:17:13,Venta,Tarjeta de Crédito,10543.95,132482.95,9,TK-10801326,8956.0,Ropa,,Amparo Paez Rodriguez
+20,2025-04-04 05:44:33,Gasto,Transferencia,7086.71,125396.24,7,TK-02606474,,,Alquiler de oficina,Sebastian Rojas Valdez
+11,2025-04-05 13:29:21,Venta,Tarjeta de Débito,8477.96,105422.88,2,TK-54303911,,Accesorios,,Dr(a). Delfina Nuñez
+29,2025-04-08 15:05:45,Venta,Efectivo,4205.18,110787.75,5,TK-01640052,5291.0,Electrónica,,Sebastian Rojas Valdez
+7,2025-04-09 09:07:53,Venta,Transferencia,14623.62,86870.87,2,TK-01226916,,Ropa,,Bautista Garcia
+24,2025-04-29 10:20:59,Venta,Efectivo,4372.2,133175.25,7,TK-99854353,,Accesorios,,Amparo Paez Rodriguez
+1,2025-05-01 02:54:20,Venta,Tarjeta de Crédito,1350.15,51350.15,6,TK-93103413,,Alimentos,,Amparo Paez Rodriguez
+17,2025-05-06 15:49:20,Venta,Tarjeta de Débito,3139.78,115552.26,6,TK-66701065,2790.0,Accesorios,,Bautista Garcia
+3,2025-05-14 11:28:17,Venta,Transferencia,8857.43,69474.48,2,TK-92832764,,Juguetes,,Dr(a). Delfina Nuñez
+12,2025-05-19 23:16:05,Venta,Efectivo,10584.6,116007.48,2,TK-82278248,,Electrónica,,Alejo Fernandez Flores
+22,2025-05-22 21:39:13,Venta,Tarjeta de Débito,3139.75,136643.53,1,TK-09788208,2312.0,Juguetes,,Benjamin Perez Diaz
+10,2025-06-09 00:04:38,Venta,Tarjeta de Débito,6182.53,96944.92,9,TK-93252880,6310.0,Electrónica,,Bautista Garcia
+23,2025-06-10 18:27:02,Gasto,Efectivo,7840.48,128803.05,2,TK-91361939,1651.0,,Alquiler de oficina,Juan Bautista Martina Diaz
+2,2025-06-13 12:46:33,Venta,Efectivo,9266.9,60617.05,7,TK-47525534,,Alimentos,,Juan Bautista Martina Diaz
+13,2025-06-14 14:50:13,Gasto,Tarjeta de Débito,4748.37,111259.11,7,TK-38346578,8397.0,,Honorarios profesionales,Alejo Fernandez Flores
+4,2025-07-05 23:44:56,Venta,Tarjeta de Débito,11623.3,81097.78,9,TK-35030564,2084.0,Ropa,,Dr(a). Delfina Nuñez
