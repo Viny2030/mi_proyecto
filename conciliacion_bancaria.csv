@@ -1,0 +1,39 @@
+id_banco,fecha,tipo,concepto_banco,monto_banco,referencia_banco,id_contable,concepto_contable,monto_contable,referencia_contable,diferencia_monto,conciliado
+1,2025-06-09,Débito,Depósito efectivo,3042.93,BNK-59826204,1.0,Comisión pagada,3042.93,CNT-50533158,0.0,True
+27,2025-06-10,Crédito,Intereses,1382.14,BNK-31869993,27.0,Cobro cliente,1382.14,CNT-86774964,0.0,True
+12,2025-06-12,Débito,Transferencia recibida,2296.09,BNK-62316658,,,,,,False
+20,2025-06-13,Crédito,Comisión bancaria,3809.49,BNK-84987769,20.0,Cobro cliente,3809.49,CNT-45314737,0.0,True
+10,2025-06-15,Débito,Transferencia recibida,7395.36,BNK-17278895,10.0,Comisión pagada,7362.74,CNT-79868727,32.61999999999989,True
+7,2025-06-17,Débito,Comisión bancaria,8302.09,BNK-80443699,7.0,Depósito registrado,8302.09,CNT-57773872,0.0,True
+7,2025-06-17,Débito,Comisión bancaria,8302.09,BNK-80443699,23.0,Depósito registrado,5599.61,CNT-55744431,2702.4800000000005,False
+23,2025-06-17,Débito,Pago proveedor,5581.75,BNK-95788568,7.0,Depósito registrado,8302.09,CNT-57773872,2720.34,False
+23,2025-06-17,Débito,Pago proveedor,5581.75,BNK-95788568,23.0,Depósito registrado,5599.61,CNT-55744431,17.859999999999673,True
+25,2025-06-18,Crédito,Depósito efectivo,3386.15,BNK-40824008,25.0,Pago proveedor,3386.15,CNT-42710947,0.0,True
+9,2025-06-21,Crédito,Cobro cliente,5445.79,BNK-93676320,9.0,Intereses ganados,5445.79,CNT-16328708,0.0,True
+9,2025-06-21,Crédito,Cobro cliente,5445.79,BNK-93676320,11.0,Comisión pagada,8897.21,CNT-43455812,3451.419999999999,False
+9,2025-06-21,Crédito,Cobro cliente,5445.79,BNK-93676320,13.0,Depósito registrado,9976.75,CNT-70546688,4530.96,False
+11,2025-06-21,Crédito,Comisión bancaria,8897.21,BNK-34873471,9.0,Intereses ganados,5445.79,CNT-16328708,3451.419999999999,False
+11,2025-06-21,Crédito,Comisión bancaria,8897.21,BNK-34873471,11.0,Comisión pagada,8897.21,CNT-43455812,0.0,True
+11,2025-06-21,Crédito,Comisión bancaria,8897.21,BNK-34873471,13.0,Depósito registrado,9976.75,CNT-70546688,1079.5400000000009,False
+13,2025-06-21,Crédito,Cobro cliente,9976.75,BNK-03669096,9.0,Intereses ganados,5445.79,CNT-16328708,4530.96,False
+13,2025-06-21,Crédito,Cobro cliente,9976.75,BNK-03669096,11.0,Comisión pagada,8897.21,CNT-43455812,1079.5400000000009,False
+13,2025-06-21,Crédito,Cobro cliente,9976.75,BNK-03669096,13.0,Depósito registrado,9976.75,CNT-70546688,0.0,True
+26,2025-06-22,Débito,Transferencia recibida,3763.92,BNK-52047116,26.0,Depósito registrado,3763.92,CNT-71902294,0.0,True
+22,2025-06-23,Crédito,Transferencia enviada,5606.6,BNK-31367837,22.0,Intereses ganados,5606.6,CNT-77014363,0.0,True
+28,2025-06-25,Crédito,Intereses,908.73,BNK-09133412,28.0,Pago proveedor,908.73,CNT-32812067,0.0,True
+21,2025-06-25,Débito,Transferencia enviada,4035.04,BNK-65075273,21.0,Pago proveedor,4035.04,CNT-54549480,0.0,True
+6,2025-06-26,Crédito,Transferencia recibida,4958.28,BNK-14846564,6.0,Intereses ganados,4958.28,CNT-82366299,0.0,True
+5,2025-06-26,Débito,Transferencia recibida,8005.68,BNK-81693406,5.0,Intereses ganados,8005.68,CNT-08835615,0.0,True
+4,2025-06-27,Crédito,Pago proveedor,1163.83,BNK-68501429,4.0,Comisión pagada,1197.26,CNT-40196556,33.430000000000064,True
+8,2025-06-27,Débito,Depósito efectivo,4283.26,BNK-48951343,8.0,Depósito registrado,4283.26,CNT-32003791,0.0,True
+30,2025-06-28,Crédito,Intereses,1295.54,BNK-49361832,30.0,Depósito registrado,1295.54,CNT-42102499,0.0,True
+29,2025-06-28,Débito,Intereses,2344.55,BNK-74034471,,,,,,False
+24,2025-06-29,Crédito,Transferencia enviada,1089.53,BNK-51823374,24.0,Comisión pagada,1089.53,CNT-98941343,0.0,True
+16,2025-06-30,Débito,Depósito efectivo,699.58,BNK-64641708,16.0,Intereses ganados,699.58,CNT-05310033,0.0,True
+19,2025-07-01,Crédito,Pago proveedor,776.8,BNK-58651850,19.0,Intereses ganados,789.12,CNT-67165726,12.32000000000005,True
+14,2025-07-01,Débito,Cobro cliente,6568.61,BNK-37346706,14.0,Cobro cliente,6568.61,CNT-56272980,0.0,True
+17,2025-07-03,Crédito,Intereses,503.38,BNK-92327193,17.0,Pago proveedor,503.38,CNT-74529912,0.0,True
+3,2025-07-04,Crédito,Transferencia enviada,7166.05,BNK-73375433,3.0,Pago proveedor,7166.05,CNT-03654145,0.0,True
+2,2025-07-04,Débito,Intereses,4101.68,BNK-69232260,2.0,Intereses ganados,4028.69,CNT-25634216,72.99000000000024,False
+15,2025-07-05,Débito,Cobro cliente,9923.6,BNK-99016272,15.0,Comisión pagada,9850.55,CNT-04653755,73.05000000000109,False
+18,2025-07-06,Débito,Transferencia recibida,4615.4,BNK-19049663,18.0,Depósito registrado,4615.4,CNT-19314919,0.0,True
