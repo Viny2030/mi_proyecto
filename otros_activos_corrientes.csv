@@ -1,0 +1,31 @@
+id_activo_corriente,tipo_activo,monto,moneda,fecha_registro,descripcion
+AC-1000,Valores a cobrar,78797.69,USD,2025-05-05,Pago anticipado por publicidad contratada
+AC-1001,Documentos por cobrar,68882.81,EUR,2025-04-22,Documentos por cobrar pendientes de pago
+AC-1002,Otros créditos,91532.93,EUR,2025-05-31,Crédito otorgado por devolución de impuestos
+AC-1003,Documentos por cobrar,45688.93,EUR,2025-05-20,Gastos pagados por anticipado de seguros
+AC-1004,Documentos por cobrar,184298.15,ARS,2025-07-06,Crédito otorgado por devolución de impuestos
+AC-1005,Otros créditos,174362.28,USD,2025-07-08,Documentos por cobrar pendientes de pago
+AC-1006,Anticipo a proveedores,45006.03,USD,2025-07-04,Crédito otorgado por devolución de impuestos
+AC-1007,Gastos pagados por anticipado,161286.44,USD,2025-05-21,Depósito en garantía para contrato vigente
+AC-1008,Valores a cobrar,88954.56,USD,2025-06-19,Documentos por cobrar pendientes de pago
+AC-1009,Gastos pagados por anticipado,184740.68,USD,2025-06-09,Documentos por cobrar pendientes de pago
+AC-1010,Otros créditos,16160.86,USD,2025-05-19,Documentos por cobrar pendientes de pago
+AC-1011,Documentos por cobrar,56636.57,EUR,2025-05-01,Depósito en garantía para contrato vigente
+AC-1012,Valores a cobrar,158604.26,USD,2025-06-18,Depósito en garantía para servicios públicos
+AC-1013,Valores a cobrar,21628.71,ARS,2025-07-01,Valores a cobrar por ventas a crédito
+AC-1014,Documentos por cobrar,183832.8,USD,2025-07-07,Depósito en garantía para contrato vigente
+AC-1015,Valores a cobrar,196654.69,ARS,2025-07-02,Pago anticipado por publicidad contratada
+AC-1016,Anticipo a proveedores,155937.84,EUR,2025-07-02,Pago anticipado por publicidad contratada
+AC-1017,Valores a cobrar,174582.65,USD,2025-04-13,Pago anticipado por publicidad contratada
+AC-1018,Documentos por cobrar,96692.4,USD,2025-06-02,Anticipo para adquisición de maquinaria
+AC-1019,Valores a cobrar,83557.03,USD,2025-07-07,Pago anticipado por publicidad contratada
+AC-1020,Documentos por cobrar,2360.58,EUR,2025-05-25,Valores a cobrar por ventas a crédito
+AC-1021,Valores a cobrar,94409.64,ARS,2025-07-07,Documentos por cobrar pendientes de pago
+AC-1022,Gastos pagados por anticipado,190915.7,ARS,2025-04-30,Anticipo para adquisición de maquinaria
+AC-1023,Depósitos en garantía,108135.89,ARS,2025-07-06,Pago anticipado por publicidad contratada
+AC-1024,Otros créditos,197098.88,ARS,2025-06-14,Anticipo para adquisición de maquinaria
+AC-1025,Gastos pagados por anticipado,122900.3,ARS,2025-07-09,Depósito en garantía para contrato vigente
+AC-1026,Valores a cobrar,133266.32,USD,2025-06-22,Anticipo a proveedor por compra de insumos
+AC-1027,Otros créditos,65557.81,ARS,2025-05-11,Crédito otorgado por devolución de impuestos
+AC-1028,Anticipo a proveedores,190085.73,USD,2025-05-03,Anticipo a proveedor por compra de insumos
+AC-1029,Documentos por cobrar,58863.55,EUR,2025-06-15,Valores a cobrar por ventas a crédito
