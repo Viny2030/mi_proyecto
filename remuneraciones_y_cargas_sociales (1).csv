@@ -1,0 +1,31 @@
+id_empleado,departamento,puesto,tipo_contrato,fecha_ingreso,salario_bruto_mensual,cargas_sociales_empleador,costo_laboral_total_mensual
+EMP-0000,RRHH,Generalista RRHH,Contratado,2025-03-01,85202.12,29279.16,114481.28
+EMP-0001,Administración,Asistente Administrativo,Medio Tiempo,2024-06-23,61030.23,21072.0,82102.23000000001
+EMP-0002,Logística,Operario de Bodega,Medio Tiempo,2011-01-16,103347.23,35852.04,139199.27
+EMP-0003,IT,Desarrollador,Tiempo Completo,2017-04-15,225242.64,78608.16,303850.80000000005
+EMP-0004,Ventas,Gerente de Ventas,Tiempo Completo,2013-08-05,193989.11,70347.32,264336.43
+EMP-0005,Ventas,Representante de Ventas,Tiempo Completo,2016-08-28,58598.15,17596.3,76194.45
+EMP-0006,Administración,Asistente Administrativo,Medio Tiempo,2021-04-25,103810.25,38717.48,142527.73
+EMP-0007,Administración,Asistente Administrativo,Medio Tiempo,2011-02-07,68551.34,24456.51,93007.84999999999
+EMP-0008,Finanzas,Analista Financiero,Contratado,2016-03-23,78870.02,25976.1,104846.12
+EMP-0009,Marketing,Especialista de Marketing,Tiempo Completo,2023-05-29,114347.78,36977.95,151325.72999999998
+EMP-0010,RRHH,Generalista RRHH,Contratado,2012-05-11,68014.18,24252.51,92266.68999999999
+EMP-0011,RRHH,Reclutador,Medio Tiempo,2025-05-14,73515.64,24981.68,98497.32
+EMP-0012,RRHH,Reclutador,Contratado,2010-08-03,66415.98,24581.86,90997.84
+EMP-0013,Marketing,Especialista de Marketing,Contratado,2015-07-19,66689.76,21157.78,87847.54
+EMP-0014,Administración,Gerente Administrativo,Tiempo Completo,2024-06-29,229540.04,76786.68,306326.72
+EMP-0015,Producción,Ingeniero de Procesos,Medio Tiempo,2015-01-28,103342.02,31281.87,134623.89
+EMP-0016,Ventas,Representante de Ventas,Tiempo Completo,2021-03-07,97682.4,30847.36,128529.76
+EMP-0017,Administración,Gerente Administrativo,Contratado,2014-07-04,249015.71,81715.75,330731.45999999996
+EMP-0018,Administración,Asistente Administrativo,Contratado,2021-12-10,97460.24,27701.8,125162.04000000001
+EMP-0019,Marketing,Analista de Marketing,Tiempo Completo,2020-01-09,52964.72,15533.07,68497.79000000001
+EMP-0020,Administración,Asistente Administrativo,Medio Tiempo,2018-05-09,81855.46,26432.7,108288.16
+EMP-0021,Finanzas,Contador,Medio Tiempo,2020-11-12,155489.06,53412.84,208901.9
+EMP-0022,Finanzas,Analista Financiero,Medio Tiempo,2013-12-24,73328.76,22831.44,96160.2
+EMP-0023,Marketing,Analista de Marketing,Medio Tiempo,2011-06-04,49450.7,14961.91,64412.61
+EMP-0024,RRHH,Reclutador,Contratado,2021-12-07,79160.16,27703.82,106863.98000000001
+EMP-0025,Producción,Ingeniero de Procesos,Tiempo Completo,2020-09-26,86638.43,26601.91,113240.34
+EMP-0026,Producción,Ingeniero de Procesos,Tiempo Completo,2021-04-20,85593.0,26341.25,111934.25
+EMP-0027,IT,Científico de Datos,Tiempo Completo,2022-05-09,342895.65,109887.32,452782.97000000003
+EMP-0028,Administración,Gerente Administrativo,Medio Tiempo,2019-03-21,272102.74,90690.22,362792.95999999996
+EMP-0029,Producción,Operario,Tiempo Completo,2019-09-30,68903.57,23700.71,92604.28
