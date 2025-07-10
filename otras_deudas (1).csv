@@ -1,0 +1,31 @@
+id_deuda,tipo_deuda,acreedor,fecha_origen,fecha_vencimiento,monto_original,saldo_pendiente,moneda,tasa_interes_anual,estado_deuda
+DEU-0000,Deuda Comercial,Acreedor_15,2021-05-02,2028-06-11,9049176.86,6565143.2,USD,0.2078,Activa
+DEU-0001,Préstamo Bancario,Acreedor_6,2023-11-19,2027-06-24,4859852.62,724013.66,ARS,0.2352,Activa
+DEU-0002,Deuda Comercial,Acreedor_13,2022-03-20,2025-03-24,3345204.97,763323.56,ARS,0.3051,Vencida
+DEU-0003,Deuda Comercial,Acreedor_5,2022-11-20,2023-07-12,6831956.04,0.0,ARS,0.1189,Cancelada
+DEU-0004,Préstamo de Accionista,Acreedor_10,2022-02-01,2027-08-02,8641386.76,4003044.84,USD,0.0592,Activa
+DEU-0005,Préstamo de Accionista,Acreedor_15,2024-04-06,2024-05-19,3363682.33,0.0,ARS,0.1016,Cancelada
+DEU-0006,Préstamo Bancario,Acreedor_3,2023-02-26,2023-11-22,3721263.33,0.0,ARS,0.2757,Cancelada
+DEU-0007,Préstamo de Accionista,Acreedor_15,2023-03-27,2025-02-22,1617667.55,906590.82,USD,0.4099,Vencida
+DEU-0008,Préstamo Bancario,Acreedor_19,2021-10-05,2027-03-15,7541081.7,3032742.31,ARS,0.4138,Activa
+DEU-0009,Arrendamiento Financiero,Acreedor_18,2021-07-07,2026-04-28,4514810.84,1690971.74,USD,0.1093,Activa
+DEU-0010,Préstamo Bancario,Acreedor_12,2022-01-13,2025-08-21,6956381.87,6635715.42,ARS,0.2057,Activa
+DEU-0011,Arrendamiento Financiero,Acreedor_10,2020-12-31,2025-07-16,4039386.5,3287591.7,ARS,0.0714,Activa
+DEU-0012,Préstamo de Accionista,Acreedor_13,2021-12-23,2026-06-22,8950449.68,2830499.03,USD,0.1648,Activa
+DEU-0013,Deuda Comercial,Acreedor_12,2021-09-12,2022-08-10,872652.73,0.0,ARS,0.336,Cancelada
+DEU-0014,Arrendamiento Financiero,Acreedor_20,2021-10-05,2028-04-12,110247.19,98922.41,ARS,0.4267,Activa
+DEU-0015,Préstamo de Accionista,Acreedor_14,2023-01-30,2025-03-13,6681330.82,0.0,USD,0.4498,Cancelada
+DEU-0016,Préstamo Bancario,Acreedor_7,2024-08-19,2026-02-09,7876762.6,6981251.97,USD,0.3441,Activa
+DEU-0017,Deuda Comercial,Acreedor_8,2024-01-07,2024-05-26,948727.2,0.0,USD,0.4412,Cancelada
+DEU-0018,Préstamo Bancario,Acreedor_9,2021-07-12,2023-09-23,3016936.34,0.0,ARS,0.2761,Cancelada
+DEU-0019,Préstamo Bancario,Acreedor_18,2022-03-02,2022-11-01,5166129.95,0.0,ARS,0.1208,Cancelada
+DEU-0020,Préstamo de Accionista,Acreedor_18,2025-01-25,2025-06-29,2415522.39,983618.76,USD,0.4148,Vencida
+DEU-0021,Arrendamiento Financiero,Acreedor_11,2023-08-19,2027-01-13,7188988.03,4651185.12,USD,0.2216,Activa
+DEU-0022,Préstamo de Accionista,Acreedor_18,2024-06-09,2024-07-19,6604026.63,0.0,USD,0.0767,Cancelada
+DEU-0023,Préstamo Bancario,Acreedor_10,2020-11-14,2027-02-22,4614569.06,3425840.84,USD,0.3955,Activa
+DEU-0024,Préstamo de Accionista,Acreedor_10,2024-04-12,2025-12-04,2342338.61,399441.81,ARS,0.2092,Activa
+DEU-0025,Deuda Comercial,Acreedor_15,2024-10-15,2027-06-02,3259273.1,1883302.1,ARS,0.308,Activa
+DEU-0026,Préstamo Bancario,Acreedor_6,2022-06-29,2027-02-07,122818.36,81277.16,ARS,0.3661,Activa
+DEU-0027,Arrendamiento Financiero,Acreedor_17,2020-12-29,2021-08-12,9611291.65,0.0,USD,0.1356,Cancelada
+DEU-0028,Préstamo de Accionista,Acreedor_18,2020-10-15,2026-02-01,8510495.87,1461748.15,ARS,0.0783,Activa
+DEU-0029,Préstamo de Accionista,Acreedor_20,2023-09-21,2023-11-22,1896265.15,0.0,ARS,0.2355,Cancelada
