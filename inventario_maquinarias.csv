@@ -1,0 +1,31 @@
+id_equipo,tipo_equipo,descripcion,ubicacion,estado,fecha_adquisicion,valor_adquisicion,vida_util_anios,fecha_fin_vida_util
+EQ-1000,Fresadora,Fresadora modelo oiV-1043,Planta A,En reparación,2016-06-10,1375480.9,7,2023-06-09
+EQ-1001,Fresadora,Fresadora modelo cbf-8196,Planta A,Operativo,2017-06-27,352556.86,6,2023-06-26
+EQ-1002,Camión,Camión modelo mTP-8908,Planta B,Operativo,2021-10-31,327372.65,8,2029-10-29
+EQ-1003,Soldadora MIG,Soldadora MIG modelo rZa-6379,Taller de Mantenimiento,Operativo,2022-05-08,3028475.28,5,2027-05-07
+EQ-1004,Impresora industrial,Impresora industrial modelo jnW-2654,Taller de Mantenimiento,Operativo,2018-07-20,946301.6,10,2028-07-17
+EQ-1005,Fresadora,Fresadora modelo wMq-1615,Planta A,Operativo,2022-10-14,1923101.03,10,2032-10-11
+EQ-1006,Compresor de aire,Compresor de aire modelo fJs-7816,Depósito Central,En reparación,2022-12-26,3702712.58,13,2035-12-23
+EQ-1007,Fresadora,Fresadora modelo Tec-9593,Taller de Mantenimiento,Operativo,2021-06-21,1607255.75,15,2036-06-17
+EQ-1008,Compresor de aire,Compresor de aire modelo yrD-4131,Depósito Central,Operativo,2021-03-29,3581944.81,5,2026-03-28
+EQ-1009,Camión,Camión modelo nQr-5255,Depósito Central,Pendiente de baja,2021-11-01,4305525.06,6,2027-10-31
+EQ-1010,Generador eléctrico,Generador eléctrico modelo Upk-1928,Depósito Central,Operativo,2019-09-06,4203730.05,7,2026-09-04
+EQ-1011,Montacargas,Montacargas modelo XXd-4835,Depósito Central,Operativo,2017-07-31,1481493.55,15,2032-07-27
+EQ-1012,Fresadora,Fresadora modelo enK-0564,Planta B,Operativo,2023-05-29,1375092.44,12,2035-05-26
+EQ-1013,Generador eléctrico,Generador eléctrico modelo PDj-5376,Depósito Central,Pendiente de baja,2017-11-26,3271998.85,13,2030-11-23
+EQ-1014,Camión,Camión modelo VLB-3884,Depósito Central,En reparación,2023-08-08,3924799.58,8,2031-08-06
+EQ-1015,Torno CNC,Torno CNC modelo GFf-6532,Depósito Central,Operativo,2022-04-28,517705.31,14,2036-04-24
+EQ-1016,Montacargas,Montacargas modelo Mey-1226,Planta B,Operativo,2018-12-15,2099033.13,15,2033-12-11
+EQ-1017,Sistema de climatización,Sistema de climatización modelo aRU-7848,Planta B,Operativo,2016-07-20,1383812.04,13,2029-07-17
+EQ-1018,Soldadora MIG,Soldadora MIG modelo sBk-8451,Depósito Central,En reparación,2019-08-09,2256482.37,14,2033-08-05
+EQ-1019,Generador eléctrico,Generador eléctrico modelo gOt-4828,Depósito Central,Operativo,2023-02-04,4988180.51,13,2036-02-01
+EQ-1020,Sistema de climatización,Sistema de climatización modelo xWk-8932,Planta A,En reparación,2020-05-16,4333293.97,7,2027-05-15
+EQ-1021,Impresora industrial,Impresora industrial modelo Fbh-8095,Taller de Mantenimiento,Operativo,2023-11-18,2046883.1,14,2037-11-14
+EQ-1022,Sistema de climatización,Sistema de climatización modelo Kff-4303,Depósito Central,Pendiente de baja,2022-02-08,4331742.57,5,2027-02-07
+EQ-1023,Fresadora,Fresadora modelo QEJ-1822,Depósito Central,En reparación,2017-01-02,1832842.27,9,2025-12-31
+EQ-1024,Generador eléctrico,Generador eléctrico modelo IWU-8963,Planta B,Operativo,2021-09-23,4778316.45,9,2030-09-21
+EQ-1025,Soldadora MIG,Soldadora MIG modelo HCh-4657,Planta B,Operativo,2017-10-01,710771.95,15,2032-09-27
+EQ-1026,Grua hidráulica,Grua hidráulica modelo JoL-1509,Planta B,Operativo,2017-07-02,3860051.84,13,2030-06-29
+EQ-1027,Soldadora MIG,Soldadora MIG modelo cve-1031,Planta A,Operativo,2020-02-24,2545307.4,6,2026-02-22
+EQ-1028,Montacargas,Montacargas modelo iUK-4738,Depósito Central,Operativo,2020-09-15,1356183.64,14,2034-09-12
+EQ-1029,Fresadora,Fresadora modelo ggQ-3763,Planta A,En reparación,2019-05-26,4116911.62,13,2032-05-22
