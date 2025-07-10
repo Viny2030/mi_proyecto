@@ -1,0 +1,31 @@
+id_prepago,tipo_gasto,proveedor,fecha_pago,fecha_inicio_servicio,fecha_fin_servicio,duracion_meses,monto_total,monto_mensual,moneda,estado
+PP-1000,Alquiler,Ponce Ltd,2025-06-28,2025-07-05,2026-01-05,6,48526.09,8087.68,ARS,Activo
+PP-1001,Mantenimiento,Ponce Ltd,2025-06-23,2025-07-06,2025-08-06,1,11197.62,11197.62,ARS,Activo
+PP-1002,Seguro,Ponce Ltd,2025-06-12,2025-06-12,2025-09-12,3,114442.79,38147.6,ARS,Activo
+PP-1003,Licencias de software,Gomez-Alvarez,2025-07-08,2025-07-22,2025-10-22,3,119906.81,39968.94,ARS,Activo
+PP-1004,Seguro,"Gomez, Villalba and Martinez",2025-06-02,2025-06-12,2026-06-12,12,59184.91,4932.08,ARS,Activo
+PP-1005,Publicidad,Gomez and Sons,2025-06-13,2025-06-15,2025-07-15,1,79085.82,79085.82,ARS,Activo
+PP-1006,Publicidad,"Molina, Diaz and Nuñez",2025-06-29,2025-06-30,2025-12-30,6,147297.7,24549.62,ARS,Activo
+PP-1007,Alquiler,Gomez-Alvarez,2025-06-17,2025-06-19,2026-06-19,12,112647.92,9387.33,ARS,Activo
+PP-1008,Publicidad,Farias-Juarez,2025-07-01,2025-07-03,2025-10-03,3,13935.75,4645.25,ARS,Activo
+PP-1009,Publicidad,Gomez and Sons,2025-06-14,2025-06-21,2025-07-21,1,173964.32,173964.32,ARS,Activo
+PP-1010,Publicidad,Navarro and Sons,2025-06-22,2025-07-03,2026-07-03,12,36717.55,3059.8,ARS,Activo
+PP-1011,Seguro,"Molina, Diaz and Nuñez",2025-05-13,2025-05-15,2025-11-15,6,123780.55,20630.09,ARS,Activo
+PP-1012,Mantenimiento,"Paez, Rodriguez and Flores",2025-05-24,2025-05-29,2025-08-29,3,95140.74,31713.58,ARS,Activo
+PP-1013,Mantenimiento,"Juarez, Castro and Vera",2025-05-28,2025-06-07,2025-09-07,3,169356.12,56452.04,ARS,Activo
+PP-1014,Seguro,"Gomez, Villalba and Martinez",2025-05-15,2025-05-25,2025-06-25,1,83227.13,83227.13,ARS,Consumido
+PP-1015,Seguro,Ponce Ltd,2025-05-24,2025-05-30,2025-11-30,6,132810.54,22135.09,ARS,Activo
+PP-1016,Licencias de software,Navarro and Sons,2025-05-17,2025-05-25,2025-08-25,3,32227.91,10742.64,ARS,Activo
+PP-1017,Mantenimiento,Gomez-Alvarez,2025-05-27,2025-06-09,2025-12-09,6,180075.46,30012.58,ARS,Activo
+PP-1018,Publicidad,Navarro and Sons,2025-06-18,2025-06-22,2025-09-22,3,104357.63,34785.88,ARS,Activo
+PP-1019,Alquiler,Ponce Ltd,2025-06-01,2025-06-05,2025-07-05,1,127351.98,127351.98,ARS,Consumido
+PP-1020,Mantenimiento,Navarro and Sons,2025-06-02,2025-06-14,2025-07-14,1,79415.76,79415.76,ARS,Activo
+PP-1021,Mantenimiento,"Flores, Garcia and Diaz",2025-05-23,2025-05-23,2025-11-23,6,137655.27,22942.54,ARS,Activo
+PP-1022,Mantenimiento,Ponce Ltd,2025-05-27,2025-06-06,2025-12-06,6,26752.67,4458.78,ARS,Activo
+PP-1023,Seguro,Navarro and Sons,2025-07-06,2025-07-06,2026-07-06,12,190994.11,15916.18,ARS,Activo
+PP-1024,Mantenimiento,"Juarez, Castro and Vera",2025-06-18,2025-06-21,2025-09-21,3,174751.12,58250.37,ARS,Activo
+PP-1025,Mantenimiento,"Juarez, Castro and Vera",2025-06-16,2025-06-20,2025-09-20,3,77913.2,25971.07,ARS,Activo
+PP-1026,Mantenimiento,"Paez, Rodriguez and Flores",2025-05-21,2025-05-31,2025-06-30,1,100278.11,100278.11,ARS,Consumido
+PP-1027,Publicidad,Ponce Ltd,2025-06-23,2025-06-30,2025-12-30,6,16295.41,2715.9,ARS,Activo
+PP-1028,Alquiler,Farias-Juarez,2025-05-20,2025-06-04,2025-07-04,1,164124.53,164124.53,ARS,Consumido
+PP-1029,Seguro,Gomez-Alvarez,2025-06-02,2025-06-17,2025-09-17,3,189635.49,63211.83,ARS,Activo
