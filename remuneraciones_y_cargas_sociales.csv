@@ -1,0 +1,201 @@
+id_empleado,departamento,puesto,tipo_contrato,fecha_ingreso,salario_bruto_mensual,cargas_sociales_empleador,costo_laboral_total_mensual
+EMP-0000,Ventas,Representante de Ventas,Contratado,2015-02-28,97826.64,35688.56,133515.2
+EMP-0001,Producción,Ingeniero de Procesos,Medio Tiempo,2021-04-25,59270.08,21497.4,80767.48000000001
+EMP-0002,IT,Científico de Datos,Medio Tiempo,2011-04-11,302131.91,86276.62,388408.52999999997
+EMP-0003,RRHH,Generalista RRHH,Tiempo Completo,2012-12-30,69651.21,26460.12,96111.33
+EMP-0004,Ventas,Gerente de Ventas,Contratado,2017-12-20,139451.43,41378.25,180829.68
+EMP-0005,Producción,Ingeniero de Procesos,Contratado,2024-09-17,104890.84,34047.36,138938.2
+EMP-0006,RRHH,Generalista RRHH,Tiempo Completo,2012-10-01,99123.23,31334.48,130457.70999999999
+EMP-0007,Administración,Asistente Administrativo,Medio Tiempo,2023-05-16,77460.97,25911.75,103372.72
+EMP-0008,Marketing,Analista de Marketing,Medio Tiempo,2018-11-07,78489.91,27547.97,106037.88
+EMP-0009,Administración,Gerente Administrativo,Contratado,2022-01-28,155913.28,48781.0,204694.28
+EMP-0010,Marketing,Especialista de Marketing,Contratado,2013-04-03,67806.8,19944.2,87751.0
+EMP-0011,RRHH,Reclutador,Medio Tiempo,2019-03-03,69556.45,23579.42,93135.87
+EMP-0012,Marketing,Analista de Marketing,Tiempo Completo,2017-06-19,51466.65,16181.25,67647.9
+EMP-0013,RRHH,Generalista RRHH,Medio Tiempo,2024-12-14,92481.01,25973.46,118454.47
+EMP-0014,RRHH,Generalista RRHH,Contratado,2023-09-13,43747.0,13536.89,57283.89
+EMP-0015,RRHH,Generalista RRHH,Medio Tiempo,2019-08-17,76001.37,26851.75,102853.12
+EMP-0016,Ventas,Gerente de Ventas,Tiempo Completo,2011-05-07,247608.89,71349.82,318958.71
+EMP-0017,Producción,Operario,Medio Tiempo,2011-12-10,98074.39,30391.4,128465.79000000001
+EMP-0018,Marketing,Analista de Marketing,Tiempo Completo,2011-12-04,113977.07,35068.09,149045.16
+EMP-0019,RRHH,Reclutador,Tiempo Completo,2011-02-24,83289.22,29600.61,112889.83
+EMP-0020,Administración,Asistente Administrativo,Contratado,2022-03-03,73107.77,22009.69,95117.46
+EMP-0021,IT,Soporte TI,Contratado,2012-08-15,58609.56,19226.44,77836.0
+EMP-0022,Administración,Gerente Administrativo,Contratado,2018-12-13,347958.2,124019.35,471977.55000000005
+EMP-0023,Logística,Coordinador Logístico,Contratado,2012-03-22,116552.08,43821.67,160373.75
+EMP-0024,Administración,Asistente Administrativo,Contratado,2021-10-18,75858.16,21678.7,97536.86
+EMP-0025,Logística,Operario de Bodega,Contratado,2021-04-26,93664.47,33164.41,126828.88
+EMP-0026,RRHH,Generalista RRHH,Contratado,2018-05-25,40372.86,14653.18,55026.04
+EMP-0027,Ventas,Gerente de Ventas,Tiempo Completo,2010-12-10,175583.27,63592.61,239175.88
+EMP-0028,Ventas,Representante de Ventas,Tiempo Completo,2019-11-13,41862.35,12206.57,54068.92
+EMP-0029,Producción,Ingeniero de Procesos,Medio Tiempo,2015-04-19,40194.36,13846.11,54040.47
+EMP-0030,IT,Soporte TI,Contratado,2013-10-30,112056.61,34753.36,146809.97
+EMP-0031,Logística,Operario de Bodega,Contratado,2020-12-11,104895.77,29526.49,134422.26
+EMP-0032,Ventas,Gerente de Ventas,Tiempo Completo,2021-09-25,200086.64,57545.77,257632.41
+EMP-0033,Administración,Asistente Administrativo,Tiempo Completo,2011-02-16,55795.39,16505.02,72300.41
+EMP-0034,RRHH,Generalista RRHH,Contratado,2014-05-22,82905.62,24409.93,107315.54999999999
+EMP-0035,Marketing,Analista de Marketing,Tiempo Completo,2024-09-22,48012.42,14472.15,62484.57
+EMP-0036,Ventas,Representante de Ventas,Contratado,2014-04-18,51268.72,17433.2,68701.92
+EMP-0037,IT,Soporte TI,Contratado,2024-04-01,40229.56,14127.02,54356.58
+EMP-0038,Ventas,Representante de Ventas,Contratado,2018-10-07,73233.36,21261.91,94495.27
+EMP-0039,RRHH,Generalista RRHH,Tiempo Completo,2021-02-18,45437.1,15818.05,61255.149999999994
+EMP-0040,RRHH,Generalista RRHH,Tiempo Completo,2023-10-29,47045.99,17576.19,64622.17999999999
+EMP-0041,Administración,Gerente Administrativo,Contratado,2019-12-20,269200.15,102002.61,371202.76
+EMP-0042,Logística,Operario de Bodega,Medio Tiempo,2012-11-22,119143.56,36938.11,156081.66999999998
+EMP-0043,Administración,Asistente Administrativo,Medio Tiempo,2018-11-08,116725.87,42823.84,159549.71
+EMP-0044,Marketing,Analista de Marketing,Contratado,2019-03-23,94731.1,28959.57,123690.67000000001
+EMP-0045,Marketing,Especialista de Marketing,Medio Tiempo,2018-06-04,108285.09,33382.52,141667.61
+EMP-0046,Marketing,Analista de Marketing,Contratado,2016-06-02,48817.27,17108.13,65925.4
+EMP-0047,RRHH,Reclutador,Tiempo Completo,2023-09-01,66201.42,19694.59,85896.01
+EMP-0048,Finanzas,Contador,Tiempo Completo,2024-11-15,239075.64,77977.9,317053.54000000004
+EMP-0049,Administración,Gerente Administrativo,Contratado,2014-09-19,266468.39,100277.26,366745.65
+EMP-0050,IT,Desarrollador,Medio Tiempo,2014-07-23,103250.91,32668.28,135919.19
+EMP-0051,IT,Científico de Datos,Contratado,2016-03-27,226964.14,78521.75,305485.89
+EMP-0052,Ventas,Representante de Ventas,Contratado,2021-07-31,52547.44,16729.74,69277.18000000001
+EMP-0053,Producción,Ingeniero de Procesos,Medio Tiempo,2014-02-26,65811.22,23498.68,89309.9
+EMP-0054,Producción,Ingeniero de Procesos,Medio Tiempo,2020-09-27,94849.05,30746.0,125595.05
+EMP-0055,IT,Desarrollador,Contratado,2023-06-29,149139.69,54292.16,203431.85
+EMP-0056,Ventas,Representante de Ventas,Contratado,2022-07-14,84060.1,29473.23,113533.33
+EMP-0057,Producción,Ingeniero de Procesos,Contratado,2014-04-13,74505.37,24488.39,98993.76
+EMP-0058,RRHH,Reclutador,Contratado,2024-02-20,108153.79,32727.11,140880.9
+EMP-0059,Ventas,Gerente de Ventas,Tiempo Completo,2018-06-04,144727.75,45883.55,190611.3
+EMP-0060,Administración,Asistente Administrativo,Tiempo Completo,2023-05-22,111307.63,39061.42,150369.05
+EMP-0061,Producción,Operario,Tiempo Completo,2013-06-25,50033.49,14927.04,64960.53
+EMP-0062,Producción,Supervisor de Producción,Tiempo Completo,2017-10-30,301755.24,86551.4,388306.64
+EMP-0063,Ventas,Gerente de Ventas,Contratado,2022-07-15,144542.64,46554.42,191097.06
+EMP-0064,Finanzas,Analista Financiero,Medio Tiempo,2018-07-06,51840.5,16888.17,68728.67
+EMP-0065,IT,Soporte TI,Medio Tiempo,2013-01-18,99545.7,30156.82,129702.51999999999
+EMP-0066,Logística,Operario de Bodega,Tiempo Completo,2019-05-17,89820.45,26989.49,116809.94
+EMP-0067,Administración,Asistente Administrativo,Contratado,2024-07-23,119845.68,44912.07,164757.75
+EMP-0068,Marketing,Analista de Marketing,Tiempo Completo,2011-08-23,116879.5,42855.36,159734.86
+EMP-0069,Ventas,Representante de Ventas,Tiempo Completo,2021-07-03,61844.28,19240.2,81084.48
+EMP-0070,Marketing,Especialista de Marketing,Contratado,2022-12-27,86527.14,24628.35,111155.48999999999
+EMP-0071,Producción,Operario,Contratado,2013-01-31,97275.97,33759.88,131035.85
+EMP-0072,Finanzas,Contador,Contratado,2015-07-17,135882.23,43252.95,179135.18
+EMP-0073,Finanzas,Contador,Medio Tiempo,2024-08-30,324932.52,108378.17,433310.69
+EMP-0074,IT,Soporte TI,Contratado,2014-05-13,115680.88,32708.68,148389.56
+EMP-0075,Finanzas,Analista Financiero,Medio Tiempo,2019-09-29,60032.23,21138.29,81170.52
+EMP-0076,Producción,Supervisor de Producción,Medio Tiempo,2024-09-08,210261.73,66065.09,276326.82
+EMP-0077,Logística,Operario de Bodega,Medio Tiempo,2015-07-10,51317.65,14750.75,66068.4
+EMP-0078,Logística,Coordinador Logístico,Contratado,2023-12-23,115260.17,38713.8,153973.97
+EMP-0079,IT,Desarrollador,Contratado,2022-11-23,254990.65,82904.07,337894.72
+EMP-0080,Finanzas,Contador,Tiempo Completo,2010-10-04,324512.63,120179.76,444692.39
+EMP-0081,Logística,Coordinador Logístico,Tiempo Completo,2018-09-26,102130.6,33231.38,135361.98
+EMP-0082,IT,Científico de Datos,Medio Tiempo,2013-01-27,312436.89,90645.73,403082.62
+EMP-0083,Finanzas,Contador,Medio Tiempo,2019-02-09,349488.16,130971.35,480459.51
+EMP-0084,Finanzas,Contador,Tiempo Completo,2024-03-19,101282.95,32245.63,133528.58
+EMP-0085,Producción,Operario,Contratado,2016-08-29,97984.45,28954.24,126938.69
+EMP-0086,Administración,Gerente Administrativo,Tiempo Completo,2020-12-22,318803.36,94474.94,413278.3
+EMP-0087,Finanzas,Analista Financiero,Medio Tiempo,2024-04-17,104084.19,39293.0,143377.19
+EMP-0088,Finanzas,Analista Financiero,Tiempo Completo,2021-07-21,53600.67,16134.02,69734.69
+EMP-0089,Producción,Operario,Tiempo Completo,2012-04-23,54560.63,15811.08,70371.70999999999
+EMP-0090,Producción,Supervisor de Producción,Contratado,2023-10-01,333715.85,98661.12,432376.97
+EMP-0091,IT,Científico de Datos,Tiempo Completo,2024-03-01,107545.44,38456.69,146002.13
+EMP-0092,Ventas,Representante de Ventas,Medio Tiempo,2014-09-07,45240.25,13682.69,58922.94
+EMP-0093,Ventas,Gerente de Ventas,Contratado,2020-11-11,343763.19,123039.25,466802.44
+EMP-0094,IT,Desarrollador,Contratado,2022-06-22,127753.15,39434.84,167187.99
+EMP-0095,Administración,Asistente Administrativo,Tiempo Completo,2024-08-20,107368.03,30235.54,137603.57
+EMP-0096,Administración,Asistente Administrativo,Tiempo Completo,2018-06-28,77758.61,24757.96,102516.57
+EMP-0097,Producción,Operario,Contratado,2015-01-17,110163.55,34055.34,144218.89
+EMP-0098,RRHH,Reclutador,Medio Tiempo,2017-06-24,44452.87,13382.66,57835.53
+EMP-0099,Finanzas,Analista Financiero,Contratado,2023-06-23,106222.83,38497.08,144719.91
+EMP-0100,RRHH,Reclutador,Medio Tiempo,2011-03-09,108221.6,38635.36,146856.96000000002
+EMP-0101,IT,Científico de Datos,Contratado,2019-07-18,337165.73,108308.02,445473.75
+EMP-0102,Finanzas,Contador,Contratado,2017-02-27,308373.26,92610.18,400983.44
+EMP-0103,IT,Soporte TI,Medio Tiempo,2013-04-26,44783.88,14892.54,59676.42
+EMP-0104,Producción,Ingeniero de Procesos,Tiempo Completo,2011-01-07,92770.91,34057.82,126828.73000000001
+EMP-0105,Producción,Ingeniero de Procesos,Contratado,2022-11-12,62191.57,19490.14,81681.70999999999
+EMP-0106,Logística,Operario de Bodega,Contratado,2012-05-31,104639.66,31235.27,135874.93
+EMP-0107,Logística,Coordinador Logístico,Tiempo Completo,2014-08-26,65985.42,19653.57,85638.98999999999
+EMP-0108,Logística,Analista de Inventario,Tiempo Completo,2021-03-24,52868.47,19892.68,72761.15
+EMP-0109,IT,Científico de Datos,Medio Tiempo,2017-04-12,132830.14,39012.46,171842.6
+EMP-0110,Finanzas,Analista Financiero,Medio Tiempo,2011-02-04,49347.85,16990.35,66338.2
+EMP-0111,IT,Soporte TI,Medio Tiempo,2014-11-29,48927.34,17511.0,66438.34
+EMP-0112,Producción,Ingeniero de Procesos,Contratado,2012-01-26,52784.93,19237.79,72022.72
+EMP-0113,Producción,Ingeniero de Procesos,Tiempo Completo,2023-05-21,59936.48,21308.95,81245.43000000001
+EMP-0114,Logística,Analista de Inventario,Medio Tiempo,2021-03-17,66849.1,22846.32,89695.42000000001
+EMP-0115,RRHH,Generalista RRHH,Contratado,2013-08-18,88562.37,33415.14,121977.51
+EMP-0116,Producción,Ingeniero de Procesos,Contratado,2024-12-13,106853.92,35831.57,142685.49
+EMP-0117,Administración,Gerente Administrativo,Tiempo Completo,2013-02-06,326851.65,122340.67,449192.32
+EMP-0118,Logística,Analista de Inventario,Tiempo Completo,2017-03-18,58351.91,21242.04,79593.95000000001
+EMP-0119,RRHH,Reclutador,Tiempo Completo,2019-12-03,106193.7,39226.36,145420.06
+EMP-0120,IT,Científico de Datos,Contratado,2023-05-02,326361.01,99675.22,426036.23
+EMP-0121,Finanzas,Analista Financiero,Medio Tiempo,2023-08-16,102469.49,34643.28,137112.77000000002
+EMP-0122,Ventas,Gerente de Ventas,Tiempo Completo,2023-12-21,270851.04,102322.39,373173.43
+EMP-0123,Producción,Operario,Contratado,2019-05-22,101321.12,34631.05,135952.16999999998
+EMP-0124,Ventas,Representante de Ventas,Contratado,2023-04-22,55879.8,17443.16,73322.96
+EMP-0125,Producción,Ingeniero de Procesos,Contratado,2013-03-09,46152.03,13785.14,59937.17
+EMP-0126,Producción,Ingeniero de Procesos,Tiempo Completo,2019-08-13,52286.48,14884.91,67171.39
+EMP-0127,Finanzas,Analista Financiero,Medio Tiempo,2019-06-14,98855.77,32592.5,131448.27000000002
+EMP-0128,Finanzas,Contador,Tiempo Completo,2021-12-25,131180.03,45027.77,176207.8
+EMP-0129,RRHH,Reclutador,Tiempo Completo,2011-10-20,45473.18,16284.96,61758.14
+EMP-0130,Finanzas,Analista Financiero,Medio Tiempo,2022-03-02,42115.54,13706.25,55821.79
+EMP-0131,Ventas,Gerente de Ventas,Medio Tiempo,2021-05-16,342535.48,108439.11,450974.58999999997
+EMP-0132,Administración,Gerente Administrativo,Medio Tiempo,2012-06-22,119400.12,44283.49,163683.61
+EMP-0133,Marketing,Analista de Marketing,Contratado,2021-12-27,104821.67,29574.11,134395.78
+EMP-0134,Ventas,Gerente de Ventas,Medio Tiempo,2016-05-04,214585.96,60743.01,275328.97
+EMP-0135,Ventas,Representante de Ventas,Tiempo Completo,2021-02-20,102587.58,31522.27,134109.85
+EMP-0136,Marketing,Analista de Marketing,Medio Tiempo,2022-04-04,108753.8,31545.69,140299.49
+EMP-0137,Administración,Asistente Administrativo,Tiempo Completo,2016-08-05,99277.56,30321.07,129598.63
+EMP-0138,IT,Científico de Datos,Tiempo Completo,2013-01-08,335044.23,95999.54,431043.76999999996
+EMP-0139,Marketing,Especialista de Marketing,Tiempo Completo,2018-08-24,73588.9,26804.68,100393.57999999999
+EMP-0140,Administración,Gerente Administrativo,Tiempo Completo,2011-11-04,211027.79,64560.61,275588.4
+EMP-0141,Marketing,Analista de Marketing,Medio Tiempo,2014-12-11,61276.53,18328.56,79605.09
+EMP-0142,Logística,Analista de Inventario,Tiempo Completo,2024-03-11,96351.24,28521.63,124872.87000000001
+EMP-0143,Administración,Gerente Administrativo,Tiempo Completo,2012-01-15,228922.28,73670.33,302592.61
+EMP-0144,RRHH,Generalista RRHH,Tiempo Completo,2013-11-24,59337.59,20070.22,79407.81
+EMP-0145,Administración,Gerente Administrativo,Medio Tiempo,2015-05-06,346152.4,119601.24,465753.64
+EMP-0146,Logística,Operario de Bodega,Tiempo Completo,2014-08-03,64616.24,22940.36,87556.6
+EMP-0147,Finanzas,Analista Financiero,Contratado,2022-08-10,63927.13,18755.85,82682.98
+EMP-0148,Finanzas,Analista Financiero,Contratado,2020-11-16,59833.07,20812.4,80645.47
+EMP-0149,IT,Científico de Datos,Tiempo Completo,2023-08-01,258642.32,88223.25,346865.57
+EMP-0150,Ventas,Representante de Ventas,Contratado,2023-07-01,53748.57,17370.19,71118.76
+EMP-0151,Ventas,Gerente de Ventas,Tiempo Completo,2025-01-09,115066.33,38511.85,153578.18
+EMP-0152,IT,Soporte TI,Medio Tiempo,2019-03-12,100801.6,36832.4,137634.0
+EMP-0153,RRHH,Generalista RRHH,Contratado,2017-07-29,64543.67,22009.5,86553.17
+EMP-0154,Administración,Gerente Administrativo,Medio Tiempo,2013-11-16,346662.02,101526.86,448188.88
+EMP-0155,Administración,Gerente Administrativo,Contratado,2024-10-15,143423.46,45679.14,189102.59999999998
+EMP-0156,IT,Desarrollador,Tiempo Completo,2010-09-05,105419.53,32918.83,138338.36
+EMP-0157,Producción,Operario,Contratado,2021-03-08,67575.7,19862.05,87437.75
+EMP-0158,Marketing,Especialista de Marketing,Medio Tiempo,2019-10-15,42156.28,12487.82,54644.1
+EMP-0159,Producción,Operario,Medio Tiempo,2020-08-18,85046.03,30226.76,115272.79
+EMP-0160,IT,Científico de Datos,Medio Tiempo,2012-03-24,213020.11,68121.45,281141.56
+EMP-0161,Finanzas,Contador,Tiempo Completo,2019-09-30,188918.26,70137.12,259055.38
+EMP-0162,Logística,Analista de Inventario,Contratado,2012-04-25,100199.81,34945.46,135145.27
+EMP-0163,Producción,Ingeniero de Procesos,Tiempo Completo,2017-12-29,115294.01,34473.34,149767.34999999998
+EMP-0164,Producción,Ingeniero de Procesos,Contratado,2019-04-29,93287.63,28237.69,121525.32
+EMP-0165,Logística,Coordinador Logístico,Contratado,2018-09-03,112061.94,41146.85,153208.79
+EMP-0166,RRHH,Reclutador,Tiempo Completo,2018-02-28,44782.51,17006.41,61788.92
+EMP-0167,IT,Desarrollador,Contratado,2021-03-08,285649.63,93814.99,379464.62
+EMP-0168,IT,Soporte TI,Tiempo Completo,2022-11-29,99381.35,30929.71,130311.06
+EMP-0169,RRHH,Reclutador,Medio Tiempo,2025-02-16,67970.57,23992.19,91962.76000000001
+EMP-0170,Marketing,Especialista de Marketing,Medio Tiempo,2023-12-18,84576.77,25037.47,109614.24
+EMP-0171,RRHH,Generalista RRHH,Medio Tiempo,2022-07-06,95608.38,28660.7,124269.08
+EMP-0172,Logística,Operario de Bodega,Medio Tiempo,2020-11-21,61977.14,21809.38,83786.52
+EMP-0173,Ventas,Representante de Ventas,Tiempo Completo,2016-12-09,78009.01,24483.44,102492.45
+EMP-0174,Marketing,Especialista de Marketing,Contratado,2021-10-23,107042.72,31594.95,138637.67
+EMP-0175,Finanzas,Contador,Medio Tiempo,2022-03-18,332389.22,109701.74,442090.95999999996
+EMP-0176,Administración,Gerente Administrativo,Tiempo Completo,2022-02-02,104555.27,37571.44,142126.71000000002
+EMP-0177,Marketing,Analista de Marketing,Contratado,2014-12-29,52709.48,15129.32,67838.8
+EMP-0178,Producción,Ingeniero de Procesos,Tiempo Completo,2015-05-15,100311.09,36066.7,136377.78999999998
+EMP-0179,Administración,Gerente Administrativo,Medio Tiempo,2012-07-16,147283.88,53576.65,200860.53
+EMP-0180,IT,Desarrollador,Medio Tiempo,2011-11-13,208111.89,59587.7,267699.59
+EMP-0181,Finanzas,Analista Financiero,Tiempo Completo,2019-12-12,109316.62,37341.36,146657.97999999998
+EMP-0182,Producción,Operario,Tiempo Completo,2012-10-20,95922.49,35012.4,130934.89000000001
+EMP-0183,RRHH,Generalista RRHH,Tiempo Completo,2023-11-21,40320.85,14653.49,54974.34
+EMP-0184,Logística,Analista de Inventario,Medio Tiempo,2020-01-16,114322.74,36967.78,151290.52000000002
+EMP-0185,RRHH,Generalista RRHH,Tiempo Completo,2015-05-08,80685.25,27855.72,108540.97
+EMP-0186,Ventas,Gerente de Ventas,Contratado,2014-10-24,150823.44,44892.61,195716.05
+EMP-0187,Marketing,Especialista de Marketing,Tiempo Completo,2019-07-04,115231.83,35093.43,150325.26
+EMP-0188,Administración,Asistente Administrativo,Tiempo Completo,2014-10-12,113977.51,37401.84,151379.34999999998
+EMP-0189,IT,Soporte TI,Tiempo Completo,2016-05-03,79999.45,26431.65,106431.1
+EMP-0190,Ventas,Gerente de Ventas,Medio Tiempo,2024-04-12,103983.59,30612.04,134595.63
+EMP-0191,Producción,Ingeniero de Procesos,Medio Tiempo,2021-11-11,51074.86,16316.26,67391.12
+EMP-0192,Producción,Ingeniero de Procesos,Medio Tiempo,2020-08-20,86029.22,28709.55,114738.77
+EMP-0193,Logística,Coordinador Logístico,Tiempo Completo,2012-03-04,81438.12,28201.52,109639.64
+EMP-0194,Producción,Ingeniero de Procesos,Medio Tiempo,2016-12-02,104743.27,32449.08,137192.35
+EMP-0195,Ventas,Representante de Ventas,Tiempo Completo,2015-03-25,99772.72,30142.39,129915.11
+EMP-0196,Producción,Ingeniero de Procesos,Contratado,2020-10-15,57402.85,20303.2,77706.05
+EMP-0197,Logística,Analista de Inventario,Contratado,2020-06-26,60829.86,18727.45,79557.31
+EMP-0198,Marketing,Analista de Marketing,Contratado,2024-10-03,43880.89,12313.83,56194.72
+EMP-0199,Finanzas,Analista Financiero,Tiempo Completo,2022-02-24,117176.09,33759.96,150936.05
