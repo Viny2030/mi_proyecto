@@ -1,0 +1,31 @@
+id_anticipo,id_cliente,fecha_anticipo,monto_anticipo,moneda,servicio_producto_asociado,estado_aplicacion,monto_aplicado,monto_pendiente_aplicar,fecha_cierre_aplicacion
+ANT-0000,Cliente_6,2025-06-30,13802.63,ARS,Diseño Web,Parcialmente aplicado,10276.82,3525.81,
+ANT-0001,Cliente_30,2023-12-28,21006.69,EUR,Diseño Web,Pendiente de aplicación,0.0,21006.69,
+ANT-0002,Cliente_25,2023-08-31,21910.77,USD,Servicio de Mantenimiento,Pendiente de aplicación,0.0,21910.77,
+ANT-0003,Cliente_1,2023-12-29,18279.96,USD,Asesoría Legal,Pendiente de aplicación,0.0,18279.96,
+ANT-0004,Cliente_9,2025-06-01,18569.52,ARS,Consultoría IT,Pendiente de aplicación,0.0,18569.52,
+ANT-0005,Cliente_30,2025-06-04,18513.82,EUR,Asesoría Legal,Parcialmente aplicado,3575.2,14938.62,
+ANT-0006,Cliente_15,2024-04-06,17402.48,ARS,Desarrollo de Software,Parcialmente aplicado,11924.29,5478.19,
+ANT-0007,Cliente_4,2025-06-04,16854.22,ARS,Servicio de Mantenimiento,Totalmente aplicado,16854.22,0.0,2025-06-15
+ANT-0008,Cliente_22,2024-12-15,22622.81,ARS,Servicio de Mantenimiento,Pendiente de aplicación,0.0,22622.81,
+ANT-0009,Cliente_27,2025-01-12,8312.25,ARS,Licencia Anual,Pendiente de aplicación,0.0,8312.25,
+ANT-0010,Cliente_13,2024-12-13,3464.31,EUR,Licencia Anual,Pendiente de aplicación,0.0,3464.31,
+ANT-0011,Cliente_28,2025-05-06,1629.37,ARS,Licencia Anual,Pendiente de aplicación,0.0,1629.37,
+ANT-0012,Cliente_25,2024-08-21,8909.51,EUR,Diseño Web,Pendiente de aplicación,0.0,8909.51,
+ANT-0013,Cliente_13,2024-05-22,4998.13,ARS,Capacitación,Pendiente de aplicación,0.0,4998.13,
+ANT-0014,Cliente_20,2023-08-15,9953.47,EUR,Asesoría Legal,Pendiente de aplicación,0.0,9953.47,
+ANT-0015,Cliente_21,2024-07-31,23245.29,ARS,Diseño Web,Totalmente aplicado,23245.29,0.0,2024-10-19
+ANT-0016,Cliente_30,2025-04-30,17040.05,USD,Diseño Web,Totalmente aplicado,17040.05,0.0,2025-07-08
+ANT-0017,Cliente_13,2025-01-20,24334.78,ARS,Diseño Web,Parcialmente aplicado,10747.26,13587.52,
+ANT-0018,Cliente_3,2023-09-18,7909.11,USD,Capacitación,Pendiente de aplicación,0.0,7909.11,
+ANT-0019,Cliente_12,2024-09-15,12915.9,EUR,Soporte Técnico Premium,Parcialmente aplicado,5878.61,7037.29,
+ANT-0020,Cliente_14,2024-08-05,14406.28,USD,Servicio de Mantenimiento,Pendiente de aplicación,0.0,14406.28,
+ANT-0021,Cliente_23,2024-03-08,22770.37,EUR,Asesoría Legal,Pendiente de aplicación,0.0,22770.37,
+ANT-0022,Cliente_10,2025-02-18,14735.05,ARS,Capacitación,Totalmente aplicado,14735.05,0.0,2025-02-27
+ANT-0023,Cliente_16,2024-11-04,10446.33,USD,Servicio de Mantenimiento,Pendiente de aplicación,0.0,10446.33,
+ANT-0024,Cliente_16,2024-05-11,19888.55,ARS,Implementación de ERP,Totalmente aplicado,19888.55,0.0,2024-08-08
+ANT-0025,Cliente_25,2024-07-29,18126.83,EUR,Auditoría Financiera,Pendiente de aplicación,0.0,18126.83,
+ANT-0026,Cliente_30,2023-09-29,8023.13,ARS,Asesoría Legal,Parcialmente aplicado,6138.43,1884.7,
+ANT-0027,Cliente_16,2024-11-09,8993.4,ARS,Licencia Anual,Parcialmente aplicado,6526.32,2467.08,
+ANT-0028,Cliente_27,2023-07-19,3849.29,EUR,Implementación de ERP,Pendiente de aplicación,0.0,3849.29,
+ANT-0029,Cliente_27,2024-10-28,23517.16,ARS,Consultoría IT,Totalmente aplicado,23517.16,0.0,2025-01-21
