@@ -1,0 +1,151 @@
+id_impuesto,tipo_impuesto,periodo_fiscal,fecha_vencimiento,monto_ars,estado_pago,fecha_pago
+IMP-0000,Ganancias,Año 2024,2025-04-21,4485443.66,Pagado,2025-04-18
+IMP-0001,Ganancias,Año 2024,2025-09-03,4350807.28,Pendiente,
+IMP-0002,Aportes Seguridad Social,2025-05,2025-05-30,4486473.07,Vencido,
+IMP-0003,Aportes Seguridad Social,2025-02,2025-08-19,972842.1,Pendiente,
+IMP-0004,Impuesto a las Exportaciones,2024-07,2025-08-08,2559594.66,Pendiente,
+IMP-0005,Ingresos Brutos,2022-07,2025-07-31,4229701.18,Pendiente,
+IMP-0006,Ganancias,Año 2022,2025-07-11,2772286.41,Pendiente,
+IMP-0007,Impuesto a las Exportaciones,2022-12,2025-07-22,3909046.22,Pendiente,
+IMP-0008,IVA,2023-07,2023-08-24,1460875.47,Pagado,2023-08-16
+IMP-0009,Bienes Personales,Año 2023,2025-08-03,413702.72,Pendiente,
+IMP-0010,Aportes Seguridad Social,2023-12,2025-09-03,2737956.54,Pendiente,
+IMP-0011,Bienes Personales,Año 2024,2025-05-04,3979019.11,Vencido,
+IMP-0012,Ingresos Brutos,2025-04,2025-08-15,398585.31,Pendiente,
+IMP-0013,Ganancias,Año 2024,2025-09-04,1721629.97,Pendiente,
+IMP-0014,Ganancias,Año 2022,2025-07-24,603376.37,Pendiente,
+IMP-0015,Aportes Seguridad Social,2024-12,2025-08-13,3177395.57,Pendiente,
+IMP-0016,Ingresos Brutos,2025-04,2025-09-05,816525.12,Pendiente,
+IMP-0017,IVA,2024-01,2024-02-22,1868921.58,Pagado,2024-02-16
+IMP-0018,Bienes Personales,Año 2024,2025-07-13,4970499.29,Pendiente,
+IMP-0019,IVA,2023-03,2025-07-26,1305762.89,Pendiente,
+IMP-0020,Impuesto a las Exportaciones,2025-04,2025-04-12,2039989.9,Vencido,
+IMP-0021,Ingresos Brutos,2022-10,2025-08-25,1648107.85,Pendiente,
+IMP-0022,Aportes Seguridad Social,2024-11,2024-12-24,1120540.53,Pagado,2024-12-19
+IMP-0023,Ingresos Brutos,2024-03,2024-04-24,845008.72,Pagado,2024-04-16
+IMP-0024,Ingresos Brutos,2022-09,2025-07-18,4800257.51,Pendiente,
+IMP-0025,Aportes Seguridad Social,2023-05,2025-09-03,898356.34,Pendiente,
+IMP-0026,Ingresos Brutos,2024-09,2025-07-27,253981.18,Pendiente,
+IMP-0027,IVA,2023-11,2025-07-19,655504.88,Pendiente,
+IMP-0028,Bienes Personales,Año 2024,2025-04-22,4071632.62,Pagado,2025-04-13
+IMP-0029,Bienes Personales,Año 2025,2026-04-25,2884451.36,Pagado,2026-04-24
+IMP-0030,Ganancias,Año 2024,2025-07-29,4073916.79,Pendiente,
+IMP-0031,Ganancias,Año 2023,2024-04-28,1063611.76,Pagado,2024-04-26
+IMP-0032,Bienes Personales,Año 2023,2024-04-04,4048325.35,Pagado,2024-04-03
+IMP-0033,Ingresos Brutos,2024-12,2025-07-23,1385624.26,Pendiente,
+IMP-0034,Ingresos Brutos,2024-05,2025-07-30,1699507.37,Pendiente,
+IMP-0035,Bienes Personales,Año 2025,2026-04-24,907547.01,Pagado,2026-04-22
+IMP-0036,Impuesto a las Exportaciones,2025-01,2025-08-21,3105036.18,Pendiente,
+IMP-0037,Impuesto a las Exportaciones,2023-07,2025-07-28,2300899.62,Pendiente,
+IMP-0038,Aportes Seguridad Social,2023-05,2025-08-29,2481042.4,Pendiente,
+IMP-0039,Impuesto a las Exportaciones,2024-08,2024-09-22,5140916.14,Pagado,2024-09-22
+IMP-0040,Impuesto a las Exportaciones,2023-04,2023-05-11,680927.99,Pagado,2023-05-08
+IMP-0041,Impuesto a las Exportaciones,2025-05,2025-09-07,1146654.93,Pendiente,
+IMP-0042,Ingresos Brutos,2023-12,2025-08-08,2218026.84,Pendiente,
+IMP-0043,Impuesto a las Exportaciones,2024-05,2024-06-16,3002303.73,Pagado,2024-06-12
+IMP-0044,Aportes Seguridad Social,2024-11,2025-08-18,49936.24,Pendiente,
+IMP-0045,Ingresos Brutos,2024-08,2024-09-24,3829492.2,Pagado,2024-09-24
+IMP-0046,IVA,2024-03,2025-09-05,4308246.01,Pendiente,
+IMP-0047,Aportes Seguridad Social,2025-05,2025-05-22,1004932.49,Vencido,
+IMP-0048,Ingresos Brutos,2023-03,2023-04-20,2167479.09,Pagado,2023-04-17
+IMP-0049,IVA,2025-06,2025-06-21,5201734.19,Vencido,
+IMP-0050,IVA,2025-04,2025-04-16,755523.11,Vencido,
+IMP-0051,Impuesto a las Exportaciones,2025-05,2025-05-25,2617737.91,Vencido,
+IMP-0052,IVA,2023-02,2023-03-12,1224199.43,Pagado,2023-03-05
+IMP-0053,Ingresos Brutos,2024-07,2025-08-06,3921427.89,Pendiente,
+IMP-0054,Aportes Seguridad Social,2025-04,2025-05-18,1968306.97,Pagado,2025-05-08
+IMP-0055,Bienes Personales,Año 2024,2025-07-16,1746003.26,Pendiente,
+IMP-0056,IVA,2024-11,2024-12-16,2092194.24,Pagado,2024-12-09
+IMP-0057,Ingresos Brutos,2025-03,2025-08-15,4820726.26,Pendiente,
+IMP-0058,IVA,2023-08,2025-07-22,2031784.66,Pendiente,
+IMP-0059,Ingresos Brutos,2025-04,2025-04-20,2692591.45,Vencido,
+IMP-0060,IVA,2025-06,2025-06-16,5473041.43,Vencido,
+IMP-0061,Ganancias,Año 2024,2025-04-08,1138259.95,Pagado,2025-04-06
+IMP-0062,Ganancias,Año 2023,2024-04-06,4794008.69,Pagado,2024-04-02
+IMP-0063,Ingresos Brutos,2022-10,2025-07-19,2586202.41,Pendiente,
+IMP-0064,Impuesto a las Exportaciones,2025-05,2025-05-07,2700224.55,Vencido,
+IMP-0065,Impuesto a las Exportaciones,2025-06,2025-07-21,4020658.64,Pendiente,
+IMP-0066,Ganancias,Año 2024,2025-08-27,1124902.34,Pendiente,
+IMP-0067,Aportes Seguridad Social,2024-09,2025-08-03,1514494.99,Pendiente,
+IMP-0068,Bienes Personales,Año 2025,2026-04-30,2568888.86,Pagado,2026-04-27
+IMP-0069,Impuesto a las Exportaciones,2024-08,2024-09-13,1503553.11,Pagado,2024-09-12
+IMP-0070,IVA,2022-09,2025-08-06,2645497.18,Pendiente,
+IMP-0071,IVA,2025-04,2025-05-26,2029338.07,Pagado,2025-05-26
+IMP-0072,IVA,2022-08,2022-09-26,87200.18,Pagado,2022-09-25
+IMP-0073,Bienes Personales,Año 2022,2025-08-24,4947591.41,Pendiente,
+IMP-0074,Ganancias,Año 2025,2026-04-08,1267173.47,Pagado,2026-04-04
+IMP-0075,Impuesto a las Exportaciones,2023-06,2023-07-17,1197165.69,Pagado,2023-07-15
+IMP-0076,Impuesto a las Exportaciones,2023-10,2025-08-19,5282936.04,Pendiente,
+IMP-0077,Ingresos Brutos,2023-01,2025-09-07,1681430.88,Pendiente,
+IMP-0078,Ganancias,Año 2022,2023-04-06,1397804.75,Pagado,2023-04-06
+IMP-0079,Bienes Personales,Año 2025,2026-04-04,5328249.33,Pagado,2026-04-03
+IMP-0080,IVA,2024-02,2024-03-26,981218.17,Pagado,2024-03-23
+IMP-0081,Ganancias,Año 2024,2025-07-01,510408.9,Vencido,
+IMP-0082,Ganancias,Año 2023,2025-07-16,1107701.13,Pendiente,
+IMP-0083,Ingresos Brutos,2023-10,2023-11-20,4952778.33,Pagado,2023-11-14
+IMP-0084,IVA,2025-04,2025-04-12,1192363.0,Vencido,
+IMP-0085,Ingresos Brutos,2024-08,2025-08-06,477941.05,Pendiente,
+IMP-0086,Impuesto a las Exportaciones,2025-06,2025-06-24,2878427.37,Vencido,
+IMP-0087,Bienes Personales,Año 2023,2024-04-10,3419133.44,Pagado,2024-04-01
+IMP-0088,Impuesto a las Exportaciones,2023-02,2025-08-04,4325331.62,Pendiente,
+IMP-0089,Ingresos Brutos,2022-09,2022-10-11,2641745.81,Pagado,2022-10-03
+IMP-0090,Ingresos Brutos,2025-04,2025-04-21,2279034.28,Vencido,
+IMP-0091,Bienes Personales,Año 2024,2025-04-27,5311006.27,Pagado,2025-04-17
+IMP-0092,Ingresos Brutos,2023-07,2025-08-07,4246190.0,Pendiente,
+IMP-0093,Ingresos Brutos,2025-05,2025-05-14,4086603.47,Vencido,
+IMP-0094,Bienes Personales,Año 2024,2025-04-12,2946617.69,Pagado,2025-04-03
+IMP-0095,IVA,2024-07,2025-07-27,5441235.7,Pendiente,
+IMP-0096,IVA,2023-07,2025-07-11,3629869.75,Pendiente,
+IMP-0097,Aportes Seguridad Social,2023-01,2025-07-27,114602.08,Pendiente,
+IMP-0098,Bienes Personales,Año 2023,2025-08-10,1110427.56,Pendiente,
+IMP-0099,Impuesto a las Exportaciones,2025-05,2025-05-31,2567754.37,Vencido,
+IMP-0100,Impuesto a las Exportaciones,2022-12,2025-07-24,117335.41,Pendiente,
+IMP-0101,Ingresos Brutos,2023-03,2025-08-21,4375661.17,Pendiente,
+IMP-0102,Aportes Seguridad Social,2024-06,2025-08-20,5707890.87,Pendiente,
+IMP-0103,Ganancias,Año 2025,2026-04-23,2303963.66,Pendiente,
+IMP-0104,Ingresos Brutos,2023-12,2025-07-14,932849.63,Pendiente,
+IMP-0105,Bienes Personales,Año 2024,2025-08-29,3203346.24,Pendiente,
+IMP-0106,Aportes Seguridad Social,2025-07,2025-07-09,3850075.89,Vencido,
+IMP-0107,Impuesto a las Exportaciones,2025-04,2025-04-12,4141986.41,Vencido,
+IMP-0108,Impuesto a las Exportaciones,2023-11,2023-12-25,1493690.78,Pagado,2023-12-19
+IMP-0109,Impuesto a las Exportaciones,2025-05,2025-07-24,3290353.06,Pendiente,
+IMP-0110,Impuesto a las Exportaciones,2025-03,2025-04-27,410930.73,Pagado,2025-04-17
+IMP-0111,Impuesto a las Exportaciones,2024-08,2025-09-04,4540988.6,Pendiente,
+IMP-0112,Ingresos Brutos,2022-10,2022-11-15,2936492.63,Pagado,2022-11-07
+IMP-0113,Aportes Seguridad Social,2023-03,2025-08-24,1104983.98,Pendiente,
+IMP-0114,Aportes Seguridad Social,2024-12,2025-07-27,4669524.41,Pendiente,
+IMP-0115,Ingresos Brutos,2024-05,2024-06-12,1132023.83,Pagado,2024-06-11
+IMP-0116,Aportes Seguridad Social,2025-01,2025-02-20,114211.81,Pagado,2025-02-16
+IMP-0117,Aportes Seguridad Social,2022-10,2025-08-12,3754190.28,Pendiente,
+IMP-0118,Ganancias,Año 2025,2026-04-19,3267976.02,Pendiente,
+IMP-0119,Bienes Personales,Año 2024,2025-07-23,2717950.26,Pendiente,
+IMP-0120,Ganancias,Año 2023,2024-04-29,377328.74,Pagado,2024-04-28
+IMP-0121,Ganancias,Año 2025,2026-04-11,4353448.49,Pendiente,
+IMP-0122,IVA,2023-01,2025-08-12,3882741.71,Pendiente,
+IMP-0123,IVA,2025-01,2025-09-06,270034.89,Pendiente,
+IMP-0124,IVA,2024-12,2025-01-21,4489157.23,Pagado,2025-01-13
+IMP-0125,IVA,2025-06,2025-06-03,3568465.11,Vencido,
+IMP-0126,IVA,2022-10,2025-08-14,1673462.44,Pendiente,
+IMP-0127,Impuesto a las Exportaciones,2025-04,2025-04-29,5111525.57,Vencido,
+IMP-0128,Bienes Personales,Año 2022,2025-08-13,3745981.12,Pendiente,
+IMP-0129,Bienes Personales,Año 2022,2025-07-11,817382.62,Pendiente,
+IMP-0130,Ganancias,Año 2024,2025-04-04,2909212.72,Pagado,2025-03-28
+IMP-0131,IVA,2025-05,2025-05-04,1851426.64,Vencido,
+IMP-0132,Bienes Personales,Año 2024,2025-07-26,3495679.17,Pendiente,
+IMP-0133,Ingresos Brutos,2024-01,2025-08-18,1688232.7,Pendiente,
+IMP-0134,Bienes Personales,Año 2024,2025-07-27,1843071.3,Pendiente,
+IMP-0135,IVA,2022-08,2025-07-30,4229220.99,Pendiente,
+IMP-0136,Bienes Personales,Año 2024,2025-09-03,2803282.3,Pendiente,
+IMP-0137,Impuesto a las Exportaciones,2022-11,2022-12-16,4165036.73,Pagado,2022-12-12
+IMP-0138,Impuesto a las Exportaciones,2023-10,2025-07-14,3795421.04,Pendiente,
+IMP-0139,IVA,2023-03,2023-04-17,4500109.0,Pagado,2023-04-12
+IMP-0140,Bienes Personales,Año 2024,2025-04-27,196647.61,Pagado,2025-04-18
+IMP-0141,IVA,2022-12,2023-01-10,5214537.1,Pagado,2023-01-10
+IMP-0142,Bienes Personales,Año 2022,2025-08-25,4315037.54,Pendiente,
+IMP-0143,Impuesto a las Exportaciones,2024-02,2025-08-24,2689000.61,Pendiente,
+IMP-0144,Impuesto a las Exportaciones,2025-02,2025-08-21,3853144.56,Pendiente,
+IMP-0145,Bienes Personales,Año 2024,2025-04-24,887636.72,Pagado,2025-04-17
+IMP-0146,Bienes Personales,Año 2024,2025-08-18,1291240.5,Pendiente,
+IMP-0147,Ganancias,Año 2023,2024-04-23,4214063.1,Pagado,2024-04-19
+IMP-0148,IVA,2024-10,2025-09-06,3303698.04,Pendiente,
+IMP-0149,Impuesto a las Exportaciones,2025-02,2025-08-18,3259819.73,Pendiente,
