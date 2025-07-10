@@ -1,0 +1,51 @@
+id_producto_terminado,producto,lote_produccion,linea_produccion,cantidad_terminada,fecha_termino_produccion,estado_almacen,costo_produccion_unitario,valor_venta_unitario
+PT-1000,Silla Estándar,L-2824,Línea C,93,2025-05-24,Parcialmente en Almacén,404.78,287.44
+PT-1001,Mesa de Comedor,L-5506,Línea C,167,2025-06-02,Parcialmente en Almacén,859.07,1907.74
+PT-1002,Armario Doble,L-3286,Línea A,57,2025-06-28,Parcialmente en Almacén,170.2,1270.45
+PT-1003,Puerta Interior,L-9935,Línea A,178,2025-05-28,Parcialmente en Almacén,320.41,2407.83
+PT-1004,Puerta Interior,L-7912,Línea A,156,2025-05-23,Parcialmente en Almacén,1291.88,311.03
+PT-1005,Silla Estándar,L-2535,Línea C,124,2025-06-04,Parcialmente en Almacén,1045.3,702.73
+PT-1006,Mesa de Comedor,L-9279,Línea B,63,2025-06-16,Parcialmente en Almacén,1418.23,1488.74
+PT-1007,Silla Estándar,L-4257,Línea B,109,2025-06-25,Parcialmente en Almacén,932.33,1605.55
+PT-1008,Armario Doble,L-9928,Línea A,128,2025-06-10,Parcialmente en Almacén,1020.32,1478.28
+PT-1009,Estantería Modular,L-8359,Línea B,182,2025-06-22,Parcialmente en Almacén,1408.59,630.01
+PT-1010,Silla Estándar,L-1106,Línea C,78,2025-07-07,Parcialmente en Almacén,539.86,774.19
+PT-1011,Mesa de Comedor,L-3615,Línea B,109,2025-07-05,Parcialmente en Almacén,1040.37,854.99
+PT-1012,Estantería Modular,L-6574,Línea B,128,2025-06-05,Parcialmente en Almacén,1400.63,2348.98
+PT-1013,Estantería Modular,L-4527,Línea C,87,2025-07-20,Parcialmente en Almacén,741.6,2496.37
+PT-1014,Mesa de Comedor,L-6514,Línea B,146,2025-05-27,Parcialmente en Almacén,202.57,650.91
+PT-1015,Puerta Interior,L-7224,Línea C,103,2025-05-22,Parcialmente en Almacén,285.44,970.17
+PT-1016,Silla Estándar,L-6635,Línea B,90,2025-06-16,Parcialmente en Almacén,1330.98,1018.39
+PT-1017,Puerta Interior,L-1711,Línea A,174,2025-07-04,Parcialmente en Almacén,713.46,1426.56
+PT-1018,Armario Doble,L-9785,Línea B,80,2025-05-29,Parcialmente en Almacén,956.35,2470.0
+PT-1019,Puerta Interior,L-7201,Línea B,196,2025-06-05,Parcialmente en Almacén,840.52,1719.48
+PT-1020,Puerta Interior,L-5803,Línea B,92,2025-07-04,Parcialmente en Almacén,519.13,1708.96
+PT-1021,Armario Doble,L-6925,Línea A,71,2025-06-18,Parcialmente en Almacén,470.25,2240.82
+PT-1022,Mesa de Comedor,L-2139,Línea C,55,2025-06-02,Parcialmente en Almacén,874.51,790.02
+PT-1023,Puerta Interior,L-4733,Línea C,111,2025-07-14,Parcialmente en Almacén,394.88,955.77
+PT-1024,Silla Estándar,L-2307,Línea C,176,2025-07-11,Parcialmente en Almacén,987.93,770.36
+PT-1025,Estantería Modular,L-2654,Línea B,136,2025-06-11,Parcialmente en Almacén,451.57,2284.17
+PT-1026,Silla Estándar,L-8428,Línea C,95,2025-07-02,Parcialmente en Almacén,229.22,1145.4
+PT-1027,Silla Estándar,L-6977,Línea C,133,2025-05-30,Parcialmente en Almacén,161.72,933.86
+PT-1028,Estantería Modular,L-6820,Línea C,165,2025-05-26,Parcialmente en Almacén,991.96,765.59
+PT-1029,Estantería Modular,L-5374,Línea A,77,2025-07-06,Parcialmente en Almacén,718.57,1808.32
+PT-1030,Estantería Modular,L-2169,Línea A,80,2025-06-21,Parcialmente en Almacén,113.54,326.82
+PT-1031,Armario Doble,L-3803,Línea C,75,2025-06-20,Parcialmente en Almacén,1365.5,1432.14
+PT-1032,Armario Doble,L-5010,Línea A,114,2025-06-09,Parcialmente en Almacén,915.51,498.02
+PT-1033,Puerta Interior,L-7216,Línea A,173,2025-06-04,Parcialmente en Almacén,158.56,1006.93
+PT-1034,Estantería Modular,L-4598,Línea C,143,2025-07-03,Parcialmente en Almacén,1358.49,643.68
+PT-1035,Puerta Interior,L-1916,Línea A,82,2025-06-03,Parcialmente en Almacén,1033.71,981.14
+PT-1036,Estantería Modular,L-1525,Línea C,169,2025-07-06,Parcialmente en Almacén,1337.79,1104.99
+PT-1037,Mesa de Comedor,L-7572,Línea A,47,2025-06-08,Parcialmente en Almacén,1149.27,2325.54
+PT-1038,Silla Estándar,L-4456,Línea A,142,2025-07-09,Parcialmente en Almacén,1310.45,2444.08
+PT-1039,Armario Doble,L-6155,Línea C,64,2025-06-10,Parcialmente en Almacén,1333.98,208.25
+PT-1040,Armario Doble,L-9179,Línea A,68,2025-06-11,Parcialmente en Almacén,1394.28,1988.61
+PT-1041,Armario Doble,L-8517,Línea B,151,2025-06-07,Parcialmente en Almacén,1223.13,2180.55
+PT-1042,Silla Estándar,L-3287,Línea A,146,2025-06-07,Parcialmente en Almacén,473.53,2000.33
+PT-1043,Silla Estándar,L-9830,Línea A,83,2025-06-13,Parcialmente en Almacén,635.56,241.0
+PT-1044,Mesa de Comedor,L-8019,Línea A,94,2025-07-17,Parcialmente en Almacén,411.41,2068.98
+PT-1045,Silla Estándar,L-7543,Línea C,68,2025-06-06,Parcialmente en Almacén,589.52,2078.26
+PT-1046,Puerta Interior,L-3266,Línea A,92,2025-06-16,Parcialmente en Almacén,412.09,1701.08
+PT-1047,Armario Doble,L-2489,Línea A,114,2025-06-27,Parcialmente en Almacén,559.57,2181.23
+PT-1048,Armario Doble,L-2796,Línea B,93,2025-06-07,Parcialmente en Almacén,591.6,1347.1
+PT-1049,Armario Doble,L-3621,Línea C,133,2025-07-03,Parcialmente en Almacén,1473.61,1410.11
