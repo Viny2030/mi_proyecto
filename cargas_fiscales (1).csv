@@ -1,0 +1,31 @@
+id_impuesto,tipo_impuesto,periodo_fiscal,fecha_vencimiento,monto_ars,estado_pago,fecha_pago
+IMP-0000,Ganancias,Año 2024,2025-08-10,2565039.99,Pendiente,
+IMP-0001,Ingresos Brutos,2023-10,2025-07-31,3968652.89,Pendiente,
+IMP-0002,Ingresos Brutos,2025-05,2025-05-28,67311.11,Vencido,
+IMP-0003,Ingresos Brutos,2024-05,2024-06-16,4858218.31,Pagado,2024-06-12
+IMP-0004,Ingresos Brutos,2024-05,2025-09-05,3643858.53,Pendiente,
+IMP-0005,Bienes Personales,Año 2023,2025-07-27,3829611.28,Pendiente,
+IMP-0006,Ganancias,Año 2025,2026-04-07,2139117.35,Pendiente,
+IMP-0007,Aportes Seguridad Social,2024-09,2025-09-07,3412852.61,Pendiente,
+IMP-0008,Ingresos Brutos,2025-05,2025-06-14,4669539.41,Pagado,2025-06-13
+IMP-0009,Bienes Personales,Año 2024,2025-08-13,3158110.45,Pendiente,
+IMP-0010,Impuesto a las Exportaciones,2024-09,2025-09-07,3734945.63,Pendiente,
+IMP-0011,Bienes Personales,Año 2024,2025-04-28,3530202.28,Vencido,
+IMP-0012,Impuesto a las Exportaciones,2023-08,2025-08-27,1034144.12,Pendiente,
+IMP-0013,Aportes Seguridad Social,2022-10,2022-11-18,1664160.59,Pagado,2022-11-12
+IMP-0014,Ganancias,Año 2023,2024-04-27,3992551.38,Pagado,2024-04-19
+IMP-0015,Bienes Personales,Año 2024,2025-04-26,4095917.45,Pagado,2025-04-17
+IMP-0016,Impuesto a las Exportaciones,2025-05,2025-06-18,3137537.21,Pagado,2025-06-10
+IMP-0017,IVA,2023-03,2023-04-12,936614.27,Pagado,2023-04-04
+IMP-0018,Impuesto a las Exportaciones,2024-01,2024-02-26,5506182.36,Pagado,2024-02-23
+IMP-0019,Ingresos Brutos,2023-08,2025-07-21,88082.64,Pendiente,
+IMP-0020,Bienes Personales,Año 2022,2025-08-20,4734898.88,Pendiente,
+IMP-0021,Ingresos Brutos,2024-09,2024-10-17,1986811.78,Pagado,2024-10-12
+IMP-0022,Ingresos Brutos,2025-04,2025-07-20,5340106.77,Pendiente,
+IMP-0023,Bienes Personales,Año 2024,2025-04-07,1403267.16,Pagado,2025-03-31
+IMP-0024,Ganancias,Año 2023,2025-07-26,3667765.23,Pendiente,
+IMP-0025,Ingresos Brutos,2025-05,2025-06-21,2395960.62,Pagado,2025-06-18
+IMP-0026,Aportes Seguridad Social,2025-05,2025-06-22,2920198.38,Pagado,2025-06-15
+IMP-0027,Ingresos Brutos,2024-11,2025-07-12,2363319.58,Pendiente,
+IMP-0028,Bienes Personales,Año 2024,2025-04-20,503935.84,Pagado,2025-04-16
+IMP-0029,Ganancias,Año 2024,2025-04-05,1492977.22,Pagado,2025-03-28
