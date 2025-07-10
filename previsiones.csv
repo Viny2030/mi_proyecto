@@ -1,0 +1,31 @@
+id_prevision,tipo_prevision,descripcion_breve,fecha_creacion,monto_estimado_ars,probabilidad_ocurrencia,estado_actual,fecha_ultima_revision,fecha_estimada_utilizacion
+PREV-0000,Litigios,Previsión por Litigios - Evento 1,2024-02-17,0.0,Media,Revertida,2024-06-21,2025-03-19
+PREV-0001,Reestructuración,Previsión por Reestructuración - Evento 2,2025-02-27,4022211.11,Baja,Activa,2025-06-22,2025-11-17
+PREV-0002,Devoluciones de Ventas,Previsión por Devoluciones de Ventas - Evento 3,2023-07-18,3553643.31,Media,Activa,2024-04-19,2026-08-05
+PREV-0003,Devoluciones de Ventas,Previsión por Devoluciones de Ventas - Evento 4,2024-10-05,1066343.93,Media,Activa,2025-05-26,2027-01-18
+PREV-0004,Garantías,Previsión por Garantías - Evento 5,2023-04-09,1809810.63,Media,Activa,2024-02-29,2026-06-04
+PREV-0005,Garantías,Previsión por Garantías - Evento 6,2022-10-02,4580554.11,Baja,Activa,2023-09-14,2026-01-24
+PREV-0006,Litigios,Previsión por Litigios - Evento 7,2024-03-06,4570033.71,Baja,Activa,2024-03-21,2026-10-29
+PREV-0007,Litigios,Previsión por Litigios - Evento 8,2023-01-20,3941757.58,Alta,Activa,2023-02-08,2026-03-25
+PREV-0008,Desmantelamiento,Previsión por Desmantelamiento - Evento 9,2024-10-01,3851984.63,Media,Activa,2024-11-10,2027-01-12
+PREV-0009,Garantías,Previsión por Garantías - Evento 10,2023-11-07,3896276.37,Alta,Activa,2024-05-21,2026-01-22
+PREV-0010,Desmantelamiento,Previsión por Desmantelamiento - Evento 11,2023-06-17,0.0,Baja,Revertida,2024-01-27,2024-03-29
+PREV-0011,Desmantelamiento,Previsión por Desmantelamiento - Evento 12,2022-08-25,2433526.0,Media,Activa,2022-11-08,2026-07-31
+PREV-0012,Devoluciones de Ventas,Previsión por Devoluciones de Ventas - Evento 13,2025-01-04,4595520.47,Alta,Ajustada,2025-03-22,2025-08-15
+PREV-0013,Garantías,Previsión por Garantías - Evento 14,2022-12-18,1687036.73,Media,Ajustada,2023-11-16,2025-11-23
+PREV-0014,Litigios,Previsión por Litigios - Evento 15,2024-08-22,4358702.32,Media,Utilizada,2025-06-30,2025-06-04
+PREV-0015,Cobranzas Dudosas,Previsión por Cobranzas Dudosas - Evento 16,2023-04-04,2768785.44,Alta,Utilizada,2023-10-09,2023-10-03
+PREV-0016,Litigios,Previsión por Litigios - Evento 17,2022-07-15,2538708.13,Baja,Utilizada,2023-05-05,2023-06-01
+PREV-0017,Garantías,Previsión por Garantías - Evento 18,2023-09-30,3477128.78,Media,Activa,2023-10-26,2027-07-06
+PREV-0018,Litigios,Previsión por Litigios - Evento 19,2024-11-17,1192276.56,Alta,Utilizada,2025-03-29,2025-07-01
+PREV-0019,Litigios,Previsión por Litigios - Evento 20,2023-01-22,0.0,Baja,Revertida,2023-06-11,2023-10-15
+PREV-0020,Devoluciones de Ventas,Previsión por Devoluciones de Ventas - Evento 21,2025-04-13,3087381.51,Baja,Activa,2025-06-23,2026-05-10
+PREV-0021,Cobranzas Dudosas,Previsión por Cobranzas Dudosas - Evento 22,2024-02-12,2984915.23,Alta,Activa,2024-06-06,2027-04-28
+PREV-0022,Reestructuración,Previsión por Reestructuración - Evento 23,2023-11-05,3226490.8,Baja,Activa,2024-05-15,2026-07-04
+PREV-0023,Reestructuración,Previsión por Reestructuración - Evento 24,2023-06-29,4645517.31,Baja,Activa,2023-12-05,2026-10-01
+PREV-0024,Reestructuración,Previsión por Reestructuración - Evento 25,2025-01-24,3960617.27,Media,Activa,2025-05-28,2026-02-09
+PREV-0025,Cobranzas Dudosas,Previsión por Cobranzas Dudosas - Evento 26,2025-01-19,0.0,Baja,Revertida,2025-06-20,2025-05-25
+PREV-0026,Garantías,Previsión por Garantías - Evento 27,2024-05-18,4248447.17,Media,Activa,2024-09-12,2027-01-24
+PREV-0027,Desmantelamiento,Previsión por Desmantelamiento - Evento 28,2022-11-15,0.0,Media,Revertida,2023-09-12,2024-04-14
+PREV-0028,Devoluciones de Ventas,Previsión por Devoluciones de Ventas - Evento 29,2024-07-12,4521514.08,Baja,Activa,2024-11-21,2026-05-04
+PREV-0029,Cobranzas Dudosas,Previsión por Cobranzas Dudosas - Evento 30,2024-01-28,1636375.35,Media,Activa,2024-12-29,2026-03-08
