@@ -1,0 +1,31 @@
+id_proceso,producto,lote,etapa_actual,linea_produccion,cantidad_en_proceso,fecha_inicio,fecha_estim_termino,avance_porcentaje,estado
+WIP-1000,Silla,L-2824,Corte,Línea C,80,2025-06-10,2025-06-14,38,En proceso
+WIP-1001,Mesa,L-5506,Corte,Línea C,199,2025-06-17,2025-06-26,21,En proceso
+WIP-1002,Puerta,L-3286,Pintura,Línea A,17,2025-07-01,2025-07-03,37,En proceso
+WIP-1003,Mesa,L-9935,Control de calidad,Línea C,16,2025-06-12,2025-06-21,35,En proceso
+WIP-1004,Puerta,L-7912,Pintura,Línea A,124,2025-06-10,2025-06-20,45,En proceso
+WIP-1005,Silla,L-2535,Ensamblado,Línea C,118,2025-06-16,2025-06-22,45,En proceso
+WIP-1006,Mesa,L-9279,Ensamblado,Línea B,36,2025-06-27,2025-06-29,58,En proceso
+WIP-1007,Silla,L-4257,Soldadura,Línea B,164,2025-06-30,2025-07-05,15,En proceso
+WIP-1008,Armario,L-9928,Control de calidad,Línea A,106,2025-06-22,2025-06-24,80,En proceso
+WIP-1009,Estantería,L-8359,Control de calidad,Línea B,157,2025-06-27,2025-07-01,18,En proceso
+WIP-1010,Silla,L-1106,Ensamblado,Línea B,30,2025-07-02,2025-07-06,22,En proceso
+WIP-1011,Armario,L-3615,Soldadura,Línea B,172,2025-06-30,2025-07-06,30,En proceso
+WIP-1012,Estantería,L-6574,Soldadura,Línea A,181,2025-06-18,2025-06-23,92,Terminado
+WIP-1013,Silla,L-4527,Control de calidad,Línea C,53,2025-07-07,2025-07-16,41,En proceso
+WIP-1014,Mesa,L-6514,Pintura,Línea B,79,2025-06-12,2025-06-21,38,En proceso
+WIP-1015,Estantería,L-7224,Corte,Línea A,18,2025-06-12,2025-06-18,61,En proceso
+WIP-1016,Estantería,L-6635,Corte,Línea A,155,2025-06-27,2025-07-03,37,En proceso
+WIP-1017,Armario,L-1711,Pintura,Línea C,127,2025-07-01,2025-07-04,43,En proceso
+WIP-1018,Mesa,L-9785,Ensamblado,Línea C,153,2025-06-13,2025-06-22,43,En proceso
+WIP-1019,Puerta,L-7201,Pintura,Línea C,112,2025-06-12,2025-06-18,38,En proceso
+WIP-1020,Mesa,L-5803,Control de calidad,Línea B,33,2025-07-04,2025-07-05,24,En proceso
+WIP-1021,Mesa,L-6925,Ensamblado,Línea C,118,2025-06-26,2025-07-06,18,En proceso
+WIP-1022,Armario,L-2139,Pintura,Línea C,129,2025-06-11,2025-06-20,42,En proceso
+WIP-1023,Puerta,L-4733,Corte,Línea C,194,2025-07-02,2025-07-04,78,En proceso
+WIP-1024,Estantería,L-2307,Soldadura,Línea A,85,2025-07-04,2025-07-11,30,En proceso
+WIP-1025,Armario,L-2654,Corte,Línea C,194,2025-06-21,2025-06-26,74,En proceso
+WIP-1026,Mesa,L-8428,Control de calidad,Línea A,170,2025-06-28,2025-07-03,91,Terminado
+WIP-1027,Puerta,L-6977,Control de calidad,Línea A,49,2025-06-14,2025-06-20,30,En proceso
+WIP-1028,Puerta,L-6820,Control de calidad,Línea A,163,2025-06-16,2025-06-22,72,En proceso
+WIP-1029,Silla,L-5374,Corte,Línea B,88,2025-06-30,2025-07-04,17,En proceso
