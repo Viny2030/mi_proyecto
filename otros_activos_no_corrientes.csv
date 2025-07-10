@@ -1,0 +1,31 @@
+id_activo,tipo_activo,descripcion,moneda,estado,fecha_registro,valor_millones
+ANC-1000,Bienes de uso en desuso,Licencia de software con vigencia extendida,USD,Revaluado,2022-05-24,16.48
+ANC-1001,Bienes de uso en desuso,Inversión en empresa vinculada,USD,Depreciado,2021-04-28,68.22
+ANC-1002,Créditos a largo plazo,Costo de instalación pendiente de amortización,ARS,Revaluado,2019-03-16,40.05
+ANC-1003,Inversiones permanentes,Activos intangibles no amortizados,USD,Depreciado,2017-04-21,11.14
+ANC-1004,Licencias y patentes,Inversión en empresa vinculada,EUR,Revaluado,2021-08-11,60.47
+ANC-1005,Licencias y patentes,Licencia de software con vigencia extendida,USD,En litigio,2024-03-30,77.47
+ANC-1006,Préstamos otorgados a socios,Depósito judicial en garantía por litigio,ARS,Depreciado,2019-05-16,21.6
+ANC-1007,Préstamos otorgados a socios,Crédito documentado con garantía hipotecaria,ARS,Activo,2023-03-06,29.27
+ANC-1008,Inversiones permanentes,Crédito documentado con garantía hipotecaria,USD,Revaluado,2015-11-05,25.34
+ANC-1009,Costos diferidos,Crédito documentado con garantía hipotecaria,USD,En litigio,2020-04-08,27.58
+ANC-1010,Licencias y patentes,Crédito documentado con garantía hipotecaria,USD,Activo,2017-05-02,49.45
+ANC-1011,Bienes de uso en desuso,Activos intangibles no amortizados,EUR,Pendiente de baja,2019-12-20,28.35
+ANC-1012,Bienes de uso en desuso,Préstamo otorgado con vencimiento a largo plazo,ARS,Pendiente de baja,2021-01-08,70.4
+ANC-1013,Costos diferidos,Depósito judicial en garantía por litigio,ARS,Pendiente de baja,2023-03-23,26.63
+ANC-1014,Depósitos judiciales,Activos intangibles no amortizados,EUR,En litigio,2020-03-23,9.3
+ANC-1015,Préstamos otorgados a socios,Patente tecnológica adquirida para desarrollo,EUR,Depreciado,2023-05-04,76.71
+ANC-1016,Activos intangibles,Préstamo otorgado con vencimiento a largo plazo,EUR,Revaluado,2018-06-18,53.47
+ANC-1017,Licencias y patentes,Préstamo otorgado con vencimiento a largo plazo,USD,Activo,2016-09-04,70.32
+ANC-1018,Préstamos otorgados a socios,Costo de instalación pendiente de amortización,EUR,Depreciado,2019-09-15,37.8
+ANC-1019,Préstamos otorgados a socios,Inversión en empresa vinculada,USD,Activo,2021-12-16,15.83
+ANC-1020,Préstamos otorgados a socios,Inversión en empresa vinculada,ARS,Activo,2021-11-22,40.21
+ANC-1021,Créditos a largo plazo,Costo de instalación pendiente de amortización,ARS,Pendiente de baja,2015-11-07,54.82
+ANC-1022,Depósitos judiciales,Crédito documentado con garantía hipotecaria,USD,Depreciado,2017-10-04,76.98
+ANC-1023,Activos intangibles,Activos intangibles no amortizados,USD,Revaluado,2017-10-23,63.04
+ANC-1024,Inversiones permanentes,Licencia de software con vigencia extendida,EUR,Revaluado,2019-10-07,6.75
+ANC-1025,Licencias y patentes,Licencia de software con vigencia extendida,EUR,Revaluado,2023-04-11,7.54
+ANC-1026,Inversiones permanentes,Inversión en empresa vinculada,ARS,Depreciado,2017-12-16,77.35
+ANC-1027,Créditos a largo plazo,Costo de instalación pendiente de amortización,EUR,Pendiente de baja,2015-12-07,41.2
+ANC-1028,Bienes de uso en desuso,Activos intangibles no amortizados,EUR,Depreciado,2023-08-08,75.29
+ANC-1029,Activos intangibles,Préstamo otorgado con vencimiento a largo plazo,ARS,Revaluado,2023-05-06,8.91
